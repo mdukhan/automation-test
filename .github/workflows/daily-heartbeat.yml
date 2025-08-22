@@ -1,12 +1,15 @@
-# .github/workflows/daily-report.yml
 name: Daily Report (+ Heartbeat)
 
 on:
   schedule:
-    - cron: "7 5 * * *"     # daily at 05:07 UTC
+    - cron: "7 5 * * *"   # 05:07 UTC
   workflow_dispatch:
   push:
     branches: [ main ]
+
+concurrency:
+  group: daily-report               # prevent two runs from racing
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -15,15 +18,25 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0            # allow rebase/merge
+          ref: main
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip requests
+
+      - name: Sync with remote (rebase)
+        run: |
+          git fetch origin main
+          git rebase origin/main || (git rebase --abort && git merge --no-edit origin/main)
 
       - name: Heartbeat (timestamp)
         run: |
@@ -45,7 +58,14 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add HEARTBEAT.md README.md
             git commit -m "chore: daily heartbeat + report"
-            git push
           else
             echo "No changes to commit."
           fi
+
+      - name: Rebase again if remote moved during job (then push)
+        run: |
+          git fetch origin main
+          # try clean rebase; if conflicts, keep our changes on top via merge fallback
+          git rebase origin/main || (git rebase --abort && git merge --no-edit origin/main)
+          # safest push
+          git push --force-with-lease origin HEAD:main
