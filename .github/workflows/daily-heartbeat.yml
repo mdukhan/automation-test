@@ -1,0 +1,42 @@
+name: Daily Heartbeat
+
+on:
+  schedule:
+    - cron: "7 5 * * *"   # runs daily at 05:07 UTC (pick any time)
+  workflow_dispatch:       # allow manual runs too
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write      # allow pushing commits with GITHUB_TOKEN
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run heartbeat script
+        run: |
+          python -m pip install --upgrade pip
+          python scripts/heartbeat.py
+
+      - name: Configure Git author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes (if any)
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add HEARTBEAT.md
+            git commit -m "chore: daily heartbeat"
+            git push
+          else
+            echo "No changes to commit."
+          fi
