@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-22 18:21 UTC**_
+_Last update: **2025-08-22 18:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -17,7 +17,7 @@ _Last update: **2025-08-22 18:21 UTC**_
 - [automation-test](https://github.com/mdukhan/automation-test) — ★0
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-22 18:21:15 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-22 18:28:40 UTC_  
   
 - [Elevator_ocr](https://github.com/mdukhan/Elevator_ocr) — ★0 — _last push 2025-08-15 13:27:57 UTC_  
   
@@ -32,11 +32,11 @@ _Last update: **2025-08-22 18:21 UTC**_
 - 2025-08-21 14:46 UTC — **Create** in `mdukhan/automation-test`
 
 ### 📰 Today’s Headlines (HN)
-- [Waymo granted permit to begin testing in New York City](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
 - [FFmpeg 8.0](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 - [Sprinkling Self-Doubt on ChatGPT](https://ffmpeg.org/index.html#pr8.0)
 - [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
-- [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://news.ycombinator.com/item?id=44986809)
+- [Essential Reading for Agentic Engineers – August 2025](https://news.ycombinator.com/item?id=44986809)
+- [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://steipete.me/posts/2025/essential-reading-august-2025)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
