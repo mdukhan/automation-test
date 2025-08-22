@@ -1,30 +1,39 @@
-name: Daily Heartbeat
+# .github/workflows/daily-report.yml
+name: Daily Report (+ Heartbeat)
 
 on:
   schedule:
-    - cron: "7 5 * * *"   # runs daily at 05:07 UTC (pick any time)
-  workflow_dispatch:       # allow manual runs too
+    - cron: "7 5 * * *"     # daily at 05:07 UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write      # allow pushing commits with GITHUB_TOKEN
+      contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Run heartbeat script
+      - name: Install deps
         run: |
-          python -m pip install --upgrade pip
+          python -m pip install --upgrade pip requests
+
+      - name: Heartbeat (timestamp)
+        run: |
           python scripts/heartbeat.py
+
+      - name: Generate daily README section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/daily_report.py
 
       - name: Configure Git author
         run: |
@@ -34,8 +43,8 @@ jobs:
       - name: Commit changes (if any)
         run: |
           if [ -n "$(git status --porcelain)" ]; then
-            git add HEARTBEAT.md
-            git commit -m "chore: daily heartbeat"
+            git add HEARTBEAT.md README.md
+            git commit -m "chore: daily heartbeat + report"
             git push
           else
             echo "No changes to commit."
