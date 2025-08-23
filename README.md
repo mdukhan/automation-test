@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-22 18:28 UTC**_
+_Last update: **2025-08-23 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -17,7 +17,7 @@ _Last update: **2025-08-22 18:28 UTC**_
 - [automation-test](https://github.com/mdukhan/automation-test) — ★0
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-22 18:28:40 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-22 18:28:53 UTC_  
   
 - [Elevator_ocr](https://github.com/mdukhan/Elevator_ocr) — ★0 — _last push 2025-08-15 13:27:57 UTC_  
   
@@ -29,14 +29,18 @@ _Last update: **2025-08-22 18:28 UTC**_
   Config files for my GitHub profile.
 
 ### ⚡ Recent Activity (7d)
+- 2025-08-22 18:28 UTC — **Push** in `mdukhan/automation-test`
+- 2025-08-22 18:21 UTC — **Push** in `mdukhan/automation-test`
+- 2025-08-22 18:09 UTC — **Push** in `mdukhan/automation-test`
+- 2025-08-22 18:08 UTC — **Create** in `mdukhan/automation-test`
 - 2025-08-21 14:46 UTC — **Create** in `mdukhan/automation-test`
 
 ### 📰 Today’s Headlines (HN)
-- [FFmpeg 8.0](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
-- [Sprinkling Self-Doubt on ChatGPT](https://ffmpeg.org/index.html#pr8.0)
-- [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
-- [Essential Reading for Agentic Engineers – August 2025](https://news.ycombinator.com/item?id=44986809)
-- [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://steipete.me/posts/2025/essential-reading-august-2025)
+- [A visual history of Visual C++ (2017)](https://creao.ai/)
+- [Show HN: JavaScript-free (X)HTML Includes](http://www.malsmith.net/blog/visual-c-visual-history/)
+- [The theory and practice of selling the Aga cooker (1935) [pdf]](https://github.com/Evidlo/xsl-website)
+- [Google says it dropped the energy cost of AI queries by 33x in one year](https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf)
+- [Shader Academy: Learn computer graphics by solving challenges](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
