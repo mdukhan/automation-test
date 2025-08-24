@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-23 05:28 UTC**_
+_Last update: **2025-08-24 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -17,7 +17,7 @@ _Last update: **2025-08-23 05:28 UTC**_
 - [automation-test](https://github.com/mdukhan/automation-test) — ★0
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-22 18:28:53 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-23 05:28:26 UTC_  
   
 - [Elevator_ocr](https://github.com/mdukhan/Elevator_ocr) — ★0 — _last push 2025-08-15 13:27:57 UTC_  
   
@@ -36,11 +36,11 @@ _Last update: **2025-08-23 05:28 UTC**_
 - 2025-08-21 14:46 UTC — **Create** in `mdukhan/automation-test`
 
 ### 📰 Today’s Headlines (HN)
-- [A visual history of Visual C++ (2017)](https://creao.ai/)
-- [Show HN: JavaScript-free (X)HTML Includes](http://www.malsmith.net/blog/visual-c-visual-history/)
-- [The theory and practice of selling the Aga cooker (1935) [pdf]](https://github.com/Evidlo/xsl-website)
-- [Google says it dropped the energy cost of AI queries by 33x in one year](https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf)
-- [Shader Academy: Learn computer graphics by solving challenges](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
+- [Rolling the dice with CSS random()](https://ghuntley.com/agent/)
+- [The cost of interrupted work (2023)](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
+- [I built a tiny mac app to monitor and manage my development processes](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
+- [Line scan camera image processing for train photography](https://github.com/kagehq/port-kill)
+- [Evaluating LLMs for my personal use case](https://daniel.lawrence.lu/blog/y2025m09d21/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
