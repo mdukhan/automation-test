@@ -2,13 +2,13 @@ name: Daily Report (+ Heartbeat)
 
 on:
   schedule:
-    - cron: "7 5 * * *"   # 05:07 UTC
+    - cron: "7 5 * * *"     # 05:07 UTC daily
   workflow_dispatch:
   push:
     branches: [ main ]
 
 concurrency:
-  group: daily-report               # prevent two runs from racing
+  group: daily-report
   cancel-in-progress: true
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout (full history)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0            # allow rebase/merge
+          fetch-depth: 0
           ref: main
 
       - name: Set up Python
@@ -45,6 +45,10 @@ jobs:
       - name: Generate daily README section
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WEATHER_LAT: "53.5511"              # change if you want
+          WEATHER_LON: "9.9937"
+          SO_TAGS: "python;java;kubernetes"
+          FX_PAIRS: "EURUSD;EURGBP;EURJPY"
         run: |
           python scripts/daily_report.py
 
@@ -58,14 +62,12 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add HEARTBEAT.md README.md
             git commit -m "chore: daily heartbeat + report"
-          else
+          else:
             echo "No changes to commit."
           fi
 
       - name: Rebase again if remote moved during job (then push)
         run: |
           git fetch origin main
-          # try clean rebase; if conflicts, keep our changes on top via merge fallback
           git rebase origin/main || (git rebase --abort && git merge --no-edit origin/main)
-          # safest push
           git push --force-with-lease origin HEAD:main
