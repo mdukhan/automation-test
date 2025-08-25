@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-24 22:27 UTC**_
+_Last update: **2025-08-25 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-08-24 22:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-24 22:27:31 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-24 22:27:48 UTC_  
   
 - [Elevator_ocr](https://github.com/mdukhan/Elevator_ocr) — ★0 — _last push 2025-08-15 13:27:57 UTC_  
   
@@ -22,11 +22,11 @@ _Last update: **2025-08-24 22:27 UTC**_
   Config files for my GitHub profile.
 
 ### ⚡ Recent Activity (7d)
+- 2025-08-24 22:44 UTC — **Fork** in `run-llama/llama_index`
+- 2025-08-24 22:43 UTC — **Fork** in `langchain-ai/langchain`
+- 2025-08-24 22:43 UTC — **Watch** in `langchain-ai/langchain`
 - 2025-08-24 22:27 UTC — **Push** in `mdukhan/automation-test`
 - 2025-08-24 22:24 UTC — **Push** in `mdukhan/automation-test`
-- 2025-08-22 18:28 UTC — **Push** in `mdukhan/automation-test`
-- 2025-08-22 18:21 UTC — **Push** in `mdukhan/automation-test`
-- 2025-08-22 18:09 UTC — **Push** in `mdukhan/automation-test`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 13.8°C, wind 5.4 km/h
-- Today: 11.8–19.8°C, precip 0.0 mm
+- Now: 12.6°C, wind 9.0 km/h
+- Today: 12.3–19.7°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [The two versions of Parquet](https://www.spacex.com/launches/starship-flight-10)
-- [Everything I know about good API design](https://www.jeronimo.dev/the-two-versions-of-parquet/)
-- [Halt and Catch Fire Syllabus (2021)](https://www.seangoedecke.com/good-api-design/)
-- [A brilliant and nearby one-off fast radio burst localized to 13pc precision](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
-- [Making games in Go: 3 months without LLMs vs. 3 days with LLMs](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
+- [Why is choral music harder to appreciate?](https://git-annex.branchable.com/)
+- [Show HN: Sping – An HTTP&#x2F;TCP latency tool that&#x27;s easy on the eye](https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html)
+- [Bro, ban me at the IP level if you don&#x27;t like me](https://dseltzer.gitlab.io/sping/docs/)
+- [Busy beaver hunters reach numbers that overwhelm ordinary math](https://boston.conman.org/2025/08/21.1)
+- [From Hackathon to YC](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
