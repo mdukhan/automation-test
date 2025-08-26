@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-25 05:32 UTC**_
+_Last update: **2025-08-26 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,9 @@ _Last update: **2025-08-25 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-24 22:27:48 UTC_  
+- [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
+  Config files for my GitHub profile.
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-25 05:32:25 UTC_  
   
 - [Elevator_ocr](https://github.com/mdukhan/Elevator_ocr) — ★0 — _last push 2025-08-15 13:27:57 UTC_  
   
@@ -18,8 +20,6 @@ _Last update: **2025-08-25 05:32 UTC**_
   
 - [DataPipelineX](https://github.com/mdukhan/DataPipelineX) — ★1 — _last push 2024-02-17 00:26:53 UTC_  
   
-- [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2023-11-10 17:20:17 UTC_  
-  Config files for my GitHub profile.
 
 ### ⚡ Recent Activity (7d)
 - 2025-08-24 22:44 UTC — **Fork** in `run-llama/llama_index`
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.6°C, wind 9.0 km/h
-- Today: 12.3–19.7°C, precip 0.0 mm
+- Now: 12.1°C, wind 4.1 km/h
+- Today: 11.0–22.8°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Why is choral music harder to appreciate?](https://git-annex.branchable.com/)
-- [Show HN: Sping – An HTTP&#x2F;TCP latency tool that&#x27;s easy on the eye](https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html)
-- [Bro, ban me at the IP level if you don&#x27;t like me](https://dseltzer.gitlab.io/sping/docs/)
-- [Busy beaver hunters reach numbers that overwhelm ordinary math](https://boston.conman.org/2025/08/21.1)
-- [From Hackathon to YC](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
+- [macOS dotfiles should not go in –&#x2F;Library&#x2F;Application Support](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
+- [When a Bug Saved the Company](https://becca.ooo/blog/macos-dotfiles/)
+- [Google&#x27;s Liquid Cooling](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
+- [The Limits of NTP Accuracy on Linux](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
+- [Capture Checking in Scala](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
