@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-28 05:29 UTC**_
+_Last update: **2025-08-29 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,9 +10,9 @@ _Last update: **2025-08-28 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-08-27 09:39:07 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-28 05:29:56 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-27 05:29:07 UTC_  
+- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-08-27 09:39:07 UTC_  
   
 - [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
   Config files for my GitHub profile.
@@ -22,11 +22,11 @@ _Last update: **2025-08-28 05:29 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-08-28 09:46 UTC — **Fork** in `OpenPipe/ART`
+- 2025-08-28 09:45 UTC — **Watch** in `OpenPipe/ART`
+- 2025-08-27 15:43 UTC — **Fork** in `modelcontextprotocol/modelcontextprotocol`
+- 2025-08-27 15:43 UTC — **Watch** in `modelcontextprotocol/modelcontextprotocol`
 - 2025-08-27 10:50 UTC — **Fork** in `vllm-project/vllm`
-- 2025-08-27 10:49 UTC — **Watch** in `vllm-project/vllm`
-- 2025-08-27 10:47 UTC — **Watch** in `jarulraj/periodic-table`
-- 2025-08-27 10:46 UTC — **Watch** in `crewAIInc/crewAI`
-- 2025-08-27 09:39 UTC — **Create** in `mdukhan/budget-guardrail-bot`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 16.0°C, wind 5.9 km/h
-- Today: 15.9–23.3°C, precip 7.9 mm
+- Now: 15.4°C, wind 5.0 km/h
+- Today: 15.4–20.9°C, precip 0.7 mm
 
 ### 📰 Today’s Headlines (HN)
-- [The Deletion of Docker.io&#x2F;Bitnami](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
-- [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
-- [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
-- [Malicious versions of Nx and some supporting plugins were published](https://yamanot.es/)
-- [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
+- [Strange CW Keys](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
+- [A deep dive into Debian 13 &#x2F;tmp: What&#x27;s new, and what to do if you don&#x27;t like it](https://sites.google.com/site/oh6dccw/strangecwkeys)
+- [Ask HN: The government of my country blocked VPN access. What should I use?](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
+- [Why Americans Under 30 Are So Miserable](https://news.ycombinator.com/item?id=45054260)
+- [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://questionsforum.com/americans-under-30-are-so-miserable-that-the-u-s-just-fell-to-a-historic-low-ranking-in-the-annual-world-happiness/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
