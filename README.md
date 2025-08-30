@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-29 05:29 UTC**_
+_Last update: **2025-08-30 05:27 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-08-29 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-28 05:29:56 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-29 05:29:35 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-08-27 09:39:07 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 15.4°C, wind 5.0 km/h
-- Today: 15.4–20.9°C, precip 0.7 mm
+- Now: 16.4°C, wind 7.5 km/h
+- Today: 15.3–22.5°C, precip 0.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Strange CW Keys](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
-- [A deep dive into Debian 13 &#x2F;tmp: What&#x27;s new, and what to do if you don&#x27;t like it](https://sites.google.com/site/oh6dccw/strangecwkeys)
-- [Ask HN: The government of my country blocked VPN access. What should I use?](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
-- [Why Americans Under 30 Are So Miserable](https://news.ycombinator.com/item?id=45054260)
-- [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://questionsforum.com/americans-under-30-are-so-miserable-that-the-u-s-just-fell-to-a-historic-low-ranking-in-the-annual-world-happiness/)
+- [15-Fold increase in solar thermoelectric generator performance](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
+- [OpenAI tackling life extension with LLMs](https://www.nature.com/articles/s41377-025-01916-9)
+- [Acoustic Panels as Wall Coverings in TNG](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
+- [John Carmack&#x27;s arguments against building a custom XR OS at Meta](https://www.ex-astris-scientia.org/database/acoustic-panels.htm)
+- [Delete Tests](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
