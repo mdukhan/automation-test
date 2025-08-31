@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-30 05:27 UTC**_
+_Last update: **2025-08-31 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-08-30 05:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-29 05:29:35 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-30 05:27:38 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-08-27 09:39:07 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 16.4°C, wind 7.5 km/h
-- Today: 15.3–22.5°C, precip 0.2 mm
+- Now: 13.4°C, wind 8.1 km/h
+- Today: 13.3–21.6°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [15-Fold increase in solar thermoelectric generator performance](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
-- [OpenAI tackling life extension with LLMs](https://www.nature.com/articles/s41377-025-01916-9)
-- [Acoustic Panels as Wall Coverings in TNG](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
-- [John Carmack&#x27;s arguments against building a custom XR OS at Meta](https://www.ex-astris-scientia.org/database/acoustic-panels.htm)
-- [Delete Tests](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
+- [Sheafification - The optimal path to mathematical mastery](https://github.com/zakirullin/cognitive-load)
+- [Why did books start being divided into chapters? A new history](https://sheafification.com/the-fast-track/)
+- [Running our Docker registry on-prem with Harbor](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
+- [You Have to Feel It](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
+- [Are we decentralized yet?](https://mitchellh.com/writing/feel-it)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
