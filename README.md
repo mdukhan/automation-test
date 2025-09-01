@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-08-31 05:28 UTC**_
+_Last update: **2025-09-01 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,9 +10,9 @@ _Last update: **2025-08-31 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-30 05:27:38 UTC_  
+- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
-- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-08-27 09:39:07 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-08-31 05:28:28 UTC_  
   
 - [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
   Config files for my GitHub profile.
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 13.4°C, wind 8.1 km/h
-- Today: 13.3–21.6°C, precip 0.0 mm
+- Now: 17.1°C, wind 12.5 km/h
+- Today: 17.1–22.2°C, precip 3.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Sheafification - The optimal path to mathematical mastery](https://github.com/zakirullin/cognitive-load)
-- [Why did books start being divided into chapters? A new history](https://sheafification.com/the-fast-track/)
-- [Running our Docker registry on-prem with Harbor](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
-- [You Have to Feel It](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
-- [Are we decentralized yet?](https://mitchellh.com/writing/feel-it)
+- [Eternal Struggle](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
+- [Nintendo Switch 2 Dock USB-C Compatibility](https://yoavg.github.io/eternal/)
+- [“This telegram must be closely paraphrased before being communicated to anyone”](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
+- [Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
+- [Lewis and Clark marked their trail with laxatives](https://github.com/therepanic/spotilyrics)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
