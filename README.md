@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-04 05:28 UTC**_
+_Last update: **2025-09-05 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-04 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-03 05:28:30 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-04 05:28:47 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -22,11 +22,11 @@ _Last update: **2025-09-04 05:28 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-09-04 11:08 UTC — **Fork** in `microsoft/ai-agents-for-beginners`
+- 2025-09-04 11:08 UTC — **Watch** in `microsoft/ai-agents-for-beginners`
 - 2025-09-03 09:19 UTC — **Watch** in `x1xhlol/system-prompts-and-models-of-ai-tools`
 - 2025-09-03 09:19 UTC — **Watch** in `FlowiseAI/Flowise`
 - 2025-09-02 17:23 UTC — **Watch** in `koel/koel`
-- 2025-09-01 14:22 UTC — **Fork** in `huggingface/transformers`
-- 2025-09-01 14:22 UTC — **Watch** in `huggingface/transformers`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 19.0°C, wind 13.5 km/h
-- Today: 18.9–23.4°C, precip 0.0 mm
+- Now: 16.6°C, wind 9.0 km/h
+- Today: 15.7–20.3°C, precip 1.6 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Reverse engineering Solos smart glasses](http://etoileos.com/)
-- [Neovim Pack](https://jfloren.net/b/2025/8/28/0)
-- [Minesweeper thermodynamics](https://neovim.io/doc/user/pack.html#vim.pack)
-- [Claude Code: Now in Beta in Zed](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
-- [The Bitter Lesson Is Misunderstood](https://zed.dev/blog/claude-code-via-acp)
+- [What Is the Fourier Transform?](https://fil-c.org/fugc)
+- [Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
+- [Stripe Launches L1 Blockchain: Tempo](https://github.com/mindbrix/Rasterizer)
+- [Evolving the OCaml Programming Language (2025) [pdf]](https://tempo.xyz)
+- [io_uring is faster than mmap](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
