@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-06 05:27 UTC**_
+_Last update: **2025-09-07 05:27 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-06 05:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-05 05:28:59 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-06 05:27:16 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.6°C, wind 5.7 km/h
-- Today: 12.5–21.2°C, precip 0.0 mm
+- Now: 12.8°C, wind 7.4 km/h
+- Today: 12.7–22.6°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Developing a Space Flight Simulator in Clojure](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&amp;smid=url-share)
-- [Speeding up Unreal Editor launch by not spawning 38000 tooltips](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-- [GLM 4.5 with Claude Code](https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/)
-- [Video Game Blurs (and how the best one works)](https://docs.z.ai/guides/llm/glm-4.5)
-- [Novel hollow-core optical fiber transmits data 45% faster with record low loss](https://blog.frost.kiwi/dual-kawase/)
+- [The key to getting MVC correct is understanding what models are](https://mitchivin.com/)
+- [A Navajo weaving of an integrated circuit: the 555 timer](https://stlab.cc/tips/about-mvc.html)
+- [How the “Kim” dump exposed North Korea&#x27;s credential theft playbook](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
+- [The math of shuffling cards almost brought down an online poker empire](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
+- [Hitting Peak File IO Performance with Zig](https://www.scientificamerican.com/article/how-the-math-of-shuffling-cards-almost-brought-down-an-online-poker-empire/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
