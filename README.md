@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-10 05:28 UTC**_
+_Last update: **2025-09-11 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-10 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-09 05:29:26 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-10 05:28:46 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -22,11 +22,10 @@ _Last update: **2025-09-10 05:28 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-09-10 15:42 UTC — **Watch** in `tensorflow/tensor2tensor`
 - 2025-09-09 13:15 UTC — **Watch** in `jmiao24/Paper2Agent`
 - 2025-09-04 11:08 UTC — **Fork** in `microsoft/ai-agents-for-beginners`
 - 2025-09-04 11:08 UTC — **Watch** in `microsoft/ai-agents-for-beginners`
-- 2025-09-03 09:19 UTC — **Watch** in `x1xhlol/system-prompts-and-models-of-ai-tools`
-- 2025-09-03 09:19 UTC — **Watch** in `FlowiseAI/Flowise`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 15.1°C, wind 8.0 km/h
-- Today: 15.0–19.4°C, precip 0.3 mm
+- Now: 11.6°C, wind 7.3 km/h
+- Today: 11.5–19.9°C, precip 0.6 mm
 
 ### 📰 Today’s Headlines (HN)
-- [iPhone Air](https://joshfonseca.com/blogs/animal-crossing-llm)
-- [Things you can do with a debugger but not with print debugging](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
-- [E-paper display reaches the realm of LCD screens](https://mahesh-hegde.github.io/posts/what_debugger_can/)
-- [NASA finds Titan&#x27;s lakes may be creating vesicles with primitive cell walls](https://spectrum.ieee.org/e-paper-display-modos)
-- [Claude now has access to a server-side container environment](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
+- [DOOMscrolling: The Game](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+- [Court rejects Verizon claim that selling location data without consent is legal](https://ironicsans.ghost.io/doomscrolling-the-game/)
+- [Show HN: Term.everything – Run any GUI app in the terminal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
+- [ChatGPT Developer Mode: Full MCP client access](https://github.com/mmulet/term.everything)
+- [Pontevedra, Spain declares its entire urban area a &quot;reduced traffic zone&quot;](https://platform.openai.com/docs/guides/developer-mode)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
