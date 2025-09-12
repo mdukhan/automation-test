@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-11 05:29 UTC**_
+_Last update: **2025-09-12 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-11 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-10 05:28:46 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-11 05:29:25 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -22,10 +22,10 @@ _Last update: **2025-09-11 05:29 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-09-11 20:37 UTC — **Watch** in `NVlabs/Jet-Nemotron`
+- 2025-09-11 20:36 UTC — **Watch** in `NVlabs/Jet-Nemotron`
 - 2025-09-10 15:42 UTC — **Watch** in `tensorflow/tensor2tensor`
 - 2025-09-09 13:15 UTC — **Watch** in `jmiao24/Paper2Agent`
-- 2025-09-04 11:08 UTC — **Fork** in `microsoft/ai-agents-for-beginners`
-- 2025-09-04 11:08 UTC — **Watch** in `microsoft/ai-agents-for-beginners`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -37,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 11.6°C, wind 7.3 km/h
-- Today: 11.5–19.9°C, precip 0.6 mm
+- Now: 12.7°C, wind 12.8 km/h
+- Today: 12.6–18.6°C, precip 0.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [DOOMscrolling: The Game](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
-- [Court rejects Verizon claim that selling location data without consent is legal](https://ironicsans.ghost.io/doomscrolling-the-game/)
-- [Show HN: Term.everything – Run any GUI app in the terminal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
-- [ChatGPT Developer Mode: Full MCP client access](https://github.com/mmulet/term.everything)
-- [Pontevedra, Spain declares its entire urban area a &quot;reduced traffic zone&quot;](https://platform.openai.com/docs/guides/developer-mode)
+- [Why our website looks like an operating system](https://swiss.social/@swaldorff/115186445638788782)
+- [Float Exposed](https://posthog.com/blog/why-os)
+- [Top model scores may be skewed by Git history leaks in SWE-bench](https://float.exposed/)
+- [Nano Banana image examples](https://github.com/SWE-bench/SWE-bench/issues/465)
+- [De-Clouding: Music](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
