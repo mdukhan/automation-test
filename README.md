@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-13 05:27 UTC**_
+_Last update: **2025-09-14 05:27 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-13 05:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-12 05:28:53 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-13 05:27:07 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 10.6°C, wind 9.3 km/h
-- Today: 10.5–17.8°C, precip 0.2 mm
+- Now: 12.9°C, wind 7.7 km/h
+- Today: 12.8–18.5°C, precip 1.3 mm
 
 ### 📰 Today’s Headlines (HN)
-- [UTF-8 is a brilliant design](https://ma.tt/2025/09/legal-win/)
-- [QGIS is a free, open-source, cross platform geographical information system](https://iamvishnu.com/posts/utf8-is-brilliant-design)
-- [How to Use Claude Code Subagents to Parallelize Development](https://github.com/qgis/QGIS)
-- [Many hard LeetCode problems are easy constraint problems](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
-- [FFglitch, FFmpeg fork for glitch art](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
+- [Pass: Unix Password Manager](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
+- [Two Slice, a font that&#x27;s only 2px tall](https://www.passwordstore.org/)
+- [Show HN: A store that generates products from anything you type in search](https://joefatula.com/twoslice.html)
+- [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://anycrap.shop/)
+- [Why you’d issue a branded stablecoin](https://gfw.report/blog/geedge_and_mesa_leak/en/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
