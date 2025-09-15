@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-14 05:27 UTC**_
+_Last update: **2025-09-15 05:30 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-14 05:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-13 05:27:07 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-14 05:27:07 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.9°C, wind 7.7 km/h
-- Today: 12.8–18.5°C, precip 1.3 mm
+- Now: 14.2°C, wind 12.3 km/h
+- Today: 12.4–20.2°C, precip 4.4 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Pass: Unix Password Manager](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
-- [Two Slice, a font that&#x27;s only 2px tall](https://www.passwordstore.org/)
-- [Show HN: A store that generates products from anything you type in search](https://joefatula.com/twoslice.html)
-- [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://anycrap.shop/)
-- [Why you’d issue a branded stablecoin](https://gfw.report/blog/geedge_and_mesa_leak/en/)
+- [Betty Crocker broke recipes by shrinking boxes](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
+- [&quot;Hello, Is This Anna?&quot;: Unpacking the Lifecycle of Pig-Butchering Scams](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
+- [Starlink is currently experiencing a service outage](https://arxiv.org/abs/2503.20821)
+- [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://www.starlink.com/)
+- [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://nickyoder.com/johnson-lindenstrauss/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
