@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-15 05:30 UTC**_
+_Last update: **2025-09-16 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-15 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-14 05:27:07 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-15 05:30:31 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 14.2°C, wind 12.3 km/h
-- Today: 12.4–20.2°C, precip 4.4 mm
+- Now: 14.2°C, wind 24.4 km/h
+- Today: 13.6–16.8°C, precip 8.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Betty Crocker broke recipes by shrinking boxes](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
-- [&quot;Hello, Is This Anna?&quot;: Unpacking the Lifecycle of Pig-Butchering Scams](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
-- [Starlink is currently experiencing a service outage](https://arxiv.org/abs/2503.20821)
-- [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://www.starlink.com/)
-- [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://nickyoder.com/johnson-lindenstrauss/)
+- [Hosting a website on a disposable vape](https://mccue.dev/pages/9-16-25-psvm)
+- [William Gibson Reads Neuromancer (2004)](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+- [Learn x86-64 assembly by writing a GUI from scratch](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
+- [React is winning by default and slowing innovation](https://gaultier.github.io/blog/x11_x64.html)
+- [macOS Tahoe](https://www.lorenstew.art/blog/react-won-by-default/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
