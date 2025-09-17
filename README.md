@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-16 05:29 UTC**_
+_Last update: **2025-09-17 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-16 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-15 05:30:31 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-16 05:29:05 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 14.2°C, wind 24.4 km/h
-- Today: 13.6–16.8°C, precip 8.2 mm
+- Now: 12.4°C, wind 15.3 km/h
+- Today: 12.3–17.5°C, precip 1.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Hosting a website on a disposable vape](https://mccue.dev/pages/9-16-25-psvm)
-- [William Gibson Reads Neuromancer (2004)](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
-- [Learn x86-64 assembly by writing a GUI from scratch](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
-- [React is winning by default and slowing innovation](https://gaultier.github.io/blog/x11_x64.html)
-- [macOS Tahoe](https://www.lorenstew.art/blog/react-won-by-default/)
+- [Things you can do with a Software Defined Radio (2024)](https://midnight-commander.org/)
+- [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://blinry.org/50-things-with-sdr/)
+- [About the security content of iOS 15.8.5 and iPadOS 15.8.5](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
+- [How to make the Framework Desktop run even quieter](https://support.apple.com/en-us/125142)
+- [Irssi: IRC Client in a Docker Image](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
