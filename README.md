@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-17 05:29 UTC**_
+_Last update: **2025-09-18 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-17 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-16 05:29:05 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-17 05:29:29 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -22,11 +22,11 @@ _Last update: **2025-09-17 05:29 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-09-16 23:41 UTC — **Watch** in `helge17/tuxguitar`
 - 2025-09-12 13:38 UTC — **Fork** in `microsoft/ML-For-Beginners`
 - 2025-09-12 13:37 UTC — **Watch** in `microsoft/ML-For-Beginners`
 - 2025-09-12 13:37 UTC — **Fork** in `chiphuyen/dmls-book`
 - 2025-09-12 13:37 UTC — **Watch** in `chiphuyen/dmls-book`
-- 2025-09-12 13:37 UTC — **Fork** in `GokuMohandas/Made-With-ML`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.4°C, wind 15.3 km/h
-- Today: 12.3–17.5°C, precip 1.2 mm
+- Now: 16.0°C, wind 13.3 km/h
+- Today: 15.0–20.2°C, precip 0.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Things you can do with a Software Defined Radio (2024)](https://midnight-commander.org/)
-- [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://blinry.org/50-things-with-sdr/)
-- [About the security content of iOS 15.8.5 and iPadOS 15.8.5](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
-- [How to make the Framework Desktop run even quieter](https://support.apple.com/en-us/125142)
-- [Irssi: IRC Client in a Docker Image](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
+- [Meta Ray-Ban Display](https://skyfall.dev/posts/slack)
+- [WASM 3.0 Completed](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+- [Show HN: The text disappears when you screenshot it](https://webassembly.org/news/2025-09-17-wasm-3.0/)
+- [Apple Photos app corrupts images](https://unscreenshottable.vercel.app/?text=Hello)
+- [A postmortem of three recent issues](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
