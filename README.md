@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-18 05:28 UTC**_
+_Last update: **2025-09-19 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-18 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-17 05:29:29 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-18 05:28:48 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 16.0°C, wind 13.3 km/h
-- Today: 15.0–20.2°C, precip 0.2 mm
+- Now: 17.7°C, wind 11.8 km/h
+- Today: 17.1–22.0°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Meta Ray-Ban Display](https://skyfall.dev/posts/slack)
-- [WASM 3.0 Completed](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
-- [Show HN: The text disappears when you screenshot it](https://webassembly.org/news/2025-09-17-wasm-3.0/)
-- [Apple Photos app corrupts images](https://unscreenshottable.vercel.app/?text=Hello)
-- [A postmortem of three recent issues](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
+- [Playing “Minecraft” without Minecraft (2024)](https://phishyurl.com/)
+- [David Lynch LA House](https://lenowo.org/viewtopic.php?t=5)
+- [Apple: SSH and FileVault](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
+- [The Sagrada Família takes its final shape](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
+- [Gemini in Chrome](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
