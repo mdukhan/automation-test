@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-19 05:28 UTC**_
+_Last update: **2025-09-20 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-19 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-18 05:28:48 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-19 05:28:51 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -23,10 +23,6 @@ _Last update: **2025-09-19 05:28 UTC**_
 
 ### ⚡ Recent Activity (7d)
 - 2025-09-16 23:41 UTC — **Watch** in `helge17/tuxguitar`
-- 2025-09-12 13:38 UTC — **Fork** in `microsoft/ML-For-Beginners`
-- 2025-09-12 13:37 UTC — **Watch** in `microsoft/ML-For-Beginners`
-- 2025-09-12 13:37 UTC — **Fork** in `chiphuyen/dmls-book`
-- 2025-09-12 13:37 UTC — **Watch** in `chiphuyen/dmls-book`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 17.7°C, wind 11.8 km/h
-- Today: 17.1–22.0°C, precip 0.0 mm
+- Now: 15.1°C, wind 5.4 km/h
+- Today: 15.1–25.5°C, precip 1.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Playing “Minecraft” without Minecraft (2024)](https://phishyurl.com/)
-- [David Lynch LA House](https://lenowo.org/viewtopic.php?t=5)
-- [Apple: SSH and FileVault](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
-- [The Sagrada Família takes its final shape](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
-- [Gemini in Chrome](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
+- [Things managers do that leaders never would](https://obsidian.md/blog/less-is-safer/)
+- [If all the world were a monorepo](https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/)
+- [Feedmaker: URL + CSS selectors = RSS feed](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
+- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://feedmaker.fly.dev)
+- [Ants that seem to defy biology – They lay eggs that hatch into another species](https://www.codeintegrity.ai/blog/notion)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
