@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-21 05:28 UTC**_
+_Last update: **2025-09-22 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-21 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-20 05:28:09 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-21 05:28:23 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -22,6 +22,7 @@ _Last update: **2025-09-21 05:28 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-09-21 13:43 UTC — **Watch** in `SecFathy/CrystalLens`
 - 2025-09-16 23:41 UTC — **Watch** in `helge17/tuxguitar`
 
 ### 🆘 Help Wanted
@@ -34,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 20.0°C, wind 11.8 km/h
-- Today: 13.7–20.9°C, precip 0.2 mm
+- Now: 10.1°C, wind 0.8 km/h
+- Today: 10.1–15.5°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.ifixit.com/News/113171/iphone-air-teardown)
-- [Ultrasonic Chef&#x27;s Knife](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
-- [The bloat of edge-case first libraries](https://seattleultrasonics.com/)
-- [Hyperion: Minecraft game engine for custom events](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
-- [Teen suspect surrenders in 2023 Las Vegas casino cyberattack case](https://hyperion.rs/)
+- [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&amp;triedRedirect=true)
+- [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
+- [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668)
+- [Why is Venus hell and Earth an Eden?](https://github.com/rxi/sj.h)
+- [South Korea&#x27;s President says US investment demands would spark financial crisis](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
