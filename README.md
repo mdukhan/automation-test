@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-23 05:29 UTC**_
+_Last update: **2025-09-24 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-23 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-22 05:29:57 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-23 05:29:30 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -23,7 +23,6 @@ _Last update: **2025-09-23 05:29 UTC**_
 
 ### ⚡ Recent Activity (7d)
 - 2025-09-21 13:43 UTC — **Watch** in `SecFathy/CrystalLens`
-- 2025-09-16 23:41 UTC — **Watch** in `helge17/tuxguitar`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -35,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 8.4°C, wind 4.7 km/h
-- Today: 8.3–16.1°C, precip 0.0 mm
+- Now: 6.9°C, wind 4.2 km/h
+- Today: 6.8–16.5°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Fall Foliage Map 2025](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
-- [Qwen3-Omni: Native Omni AI model for text, image and video](https://www.explorefall.com/fall-foliage-map)
-- [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://github.com/QwenLM/Qwen3-Omni)
-- [Based C++](https://arxiv.org/abs/2509.06917)
-- [X server implementation for SIXEL-featured terminals (2010-2014)](https://github.com/SheafificationOfG/based-cpp)
+- [Find SF parking cops](https://larian.com/support/faqs/steam-deck-native-version_121)
+- [Quadratic memory reductions for Zero-knowledge Proofs](https://walzr.com/sf-parking/)
+- [Libghostty is coming](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
+- [Qwen3-VL](https://mitchellh.com/writing/libghostty-is-coming)
+- [Markov chains are the original language models](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
