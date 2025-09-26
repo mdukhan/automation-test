@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-25 05:29 UTC**_
+_Last update: **2025-09-26 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-25 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-24 05:29:04 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-25 05:29:46 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 9.1°C, wind 13.0 km/h
-- Today: 9.0–16.5°C, precip 0.0 mm
+- Now: 10.8°C, wind 14.3 km/h
+- Today: 10.7–14.7°C, precip 0.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Quicksort explained IKEA-style](https://helium.computer/)
-- [Show HN: Dayflow – A git log for your day](https://idea-instructions.com/quick-sort/)
-- [Low Earth Orbit Visualization](https://github.com/JerryZLiu/Dayflow)
-- [Huntington&#x27;s disease treated for first time](https://platform.leolabs.space/visualization)
-- [Do YC after you graduate: Early decision for students](https://www.bbc.com/news/articles/cevz13xkxpro)
+- [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
+- [The effect of H-1B quota on employment and selection of foreign-born labor (2018)](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
+- [Improved Gemini 2.5 Flash and Flash-Lite](https://doi.org/10.1016/j.euroecorev.2018.06.010)
+- [Redis is fast – I&#x27;ll cache in Postgres](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
+- [ChatGPT Pulse](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
