@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-27 05:27 UTC**_
+_Last update: **2025-09-28 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-27 05:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-26 05:29:56 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-27 05:27:39 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.8°C, wind 11.5 km/h
-- Today: 12.7–18.8°C, precip 0.0 mm
+- Now: 10.6°C, wind 5.1 km/h
+- Today: 10.5–18.9°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Open Social](https://github.com/apple/ml-simplefold)
-- [New math revives geometry&#x27;s oldest problems](https://overreacted.io/open-social/)
-- [The Beauty of Programming (2001)](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
-- [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
-- [The Obsessively Complete Infocom Catalog](https://moondream.ai/blog/moondream-3-preview)
+- [Man still alive six months after pig kidney transplant](https://messenger.abeto.co/)
+- [Learn to play Go](https://www.nature.com/articles/d41586-025-02851-w)
+- [Do not do this unless you want magic black smoke](https://online-go.com/learn-to-play-go)
+- [SSH3: Faster and rich secure shell using HTTP&#x2F;3](https://www.linspyre.com/ecoholics/temps.html)
+- [Python developers are embracing type hints](https://github.com/francoismichel/ssh3)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
