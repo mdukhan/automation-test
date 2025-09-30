@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-29 05:30 UTC**_
+_Last update: **2025-09-30 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-29 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-28 05:28:14 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-29 05:30:33 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -22,7 +22,8 @@ _Last update: **2025-09-29 05:30 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-_No public activity in the last week._
+- 2025-09-29 10:15 UTC — **Watch** in `flipswitchingmonkey/FlexASIO_GUI`
+- 2025-09-29 10:13 UTC — **Watch** in `dechamps/FlexASIO`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -34,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 8.0°C, wind 6.8 km/h
-- Today: 7.9–17.4°C, precip 0.0 mm
+- Now: 9.9°C, wind 7.3 km/h
+- Today: 9.5–16.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [F-Droid and Google&#x27;s Developer Registration Decree](https://www.zeroasic.com/blog/wildebeest-launch)
-- [Play snake in the URL address bar](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
-- [Reader Response to &quot;AI Overinvestment&quot;](https://demian.ferrei.ro/snake/)
-- [Privacy Badger is a free browser extension made by EFF to stop spying](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
-- [Primer on FedEx&#x27;s Distribution Network (2024)](https://privacybadger.org/)
+- [AI tools I wish existed](https://www.anthropic.com/news/claude-sonnet-4-5)
+- [Claude Code 2.0](https://sharif.io/28-ideas-2025)
+- [How to create an OS from scratch](https://www.npmjs.com/package/@anthropic-ai/claude-code)
+- [Hiring only senior engineers is killing companies](https://github.com/cfenollosa/os-tutorial)
+- [Show HN: Devbox – Containers for better dev environments (ar0.eu)](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
