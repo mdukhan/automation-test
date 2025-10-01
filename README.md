@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-09-30 05:29 UTC**_
+_Last update: **2025-10-01 05:30 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-09-30 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-29 05:30:33 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-30 05:29:52 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -22,6 +22,7 @@ _Last update: **2025-09-30 05:29 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-09-29 21:28 UTC — **Watch** in `linagora/twake-drive`
 - 2025-09-29 10:15 UTC — **Watch** in `flipswitchingmonkey/FlexASIO_GUI`
 - 2025-09-29 10:13 UTC — **Watch** in `dechamps/FlexASIO`
 
@@ -35,15 +36,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 9.9°C, wind 7.3 km/h
-- Today: 9.5–16.4°C, precip 0.0 mm
+- Now: 5.0°C, wind 5.5 km/h
+- Today: 5.0–14.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [AI tools I wish existed](https://www.anthropic.com/news/claude-sonnet-4-5)
-- [Claude Code 2.0](https://sharif.io/28-ideas-2025)
-- [How to create an OS from scratch](https://www.npmjs.com/package/@anthropic-ai/claude-code)
-- [Hiring only senior engineers is killing companies](https://github.com/cfenollosa/os-tutorial)
-- [Show HN: Devbox – Containers for better dev environments (ar0.eu)](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
+- [Sora 2](https://github.com/google/cdc-file-transfer)
+- [The gaslit asset class](https://openai.com/index/sora-2/)
+- [An informational website about why I went to prison](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
+- [NJ theme park puts animatronic dinosaurs on Facebook Marketplace](https://prison.josh.mn/)
+- [Imgur pulls out of UK as data watchdog threatens fine](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
