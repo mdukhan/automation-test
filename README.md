@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-01 05:30 UTC**_
+_Last update: **2025-10-02 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-01 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-09-30 05:29:52 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-01 05:30:07 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -36,15 +36,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 5.0°C, wind 5.5 km/h
-- Today: 5.0–14.4°C, precip 0.0 mm
+- Now: 5.7°C, wind 4.3 km/h
+- Today: 5.3–15.1°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Sora 2](https://github.com/google/cdc-file-transfer)
-- [The gaslit asset class](https://openai.com/index/sora-2/)
-- [An informational website about why I went to prison](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
-- [NJ theme park puts animatronic dinosaurs on Facebook Marketplace](https://prison.josh.mn/)
-- [Imgur pulls out of UK as data watchdog threatens fine](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
+- [Cormac McCarthy&#x27;s personal library](https://www.typepad.com)
+- [F3: Open-source data file format for the future [pdf]](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
+- [Keyhive – Local-first access control](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
+- [A 3K-year-old copper smelting site could be key to understanding origins of iron](https://www.inkandswitch.com/keyhive/notebook/)
+- [Edge264 – Minimalist, high-performance software decoder for H.264&#x2F;AVC video](https://phys.org/news/2025-09-year-copper-smelting-site-key.html)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
