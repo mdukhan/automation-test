@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-03 05:29 UTC**_
+_Last update: **2025-10-04 05:27 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-03 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-02 05:28:12 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-03 05:29:39 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
   
@@ -36,15 +36,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 4.3°C, wind 9.9 km/h
-- Today: 4.3–15.7°C, precip 0.0 mm
+- Now: 9.4°C, wind 22.6 km/h
+- Today: 9.1–14.8°C, precip 36.1 mm
 
 ### 📰 Today’s Headlines (HN)
-- [I spent the day teaching seniors how to use an iPhone](https://github.com/FyshOS/fynedesk)
-- [You Want Technology with Warts](https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/)
-- [Signal Protocol and Post-Quantum Ratchets](https://entropicthoughts.com/you-want-technology-with-warts)
-- [Blender 4.5 brings big changes](https://signal.org/blog/spqr/)
-- [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://lwn.net/Articles/1036262/)
+- [Zig builds are getting faster](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
+- [Where it&#x27;s at:&#x2F;&#x2F;](https://mitchellh.com/writing/zig-builds-getting-faster)
+- [Track which Electron apps slow down macOS 26 Tahoe](https://overreacted.io/where-its-at/)
+- [Fluid Glass](https://avarayr.github.io/shamelectron/)
+- [New antibiotic targets IBD and AI predicted how it would work](https://chiuhans111.github.io/fluidglass/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
