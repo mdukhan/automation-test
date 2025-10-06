@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-05 05:26 UTC**_
+_Last update: **2025-10-06 05:28 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,9 +10,9 @@ _Last update: **2025-10-05 05:26 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-04 05:27:56 UTC_  
+- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
-- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-09-01 05:30:37 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-05 05:27:03 UTC_  
   
 - [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
   Config files for my GitHub profile.
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 10.6°C, wind 20.4 km/h
-- Today: 10.3–12.5°C, precip 11.1 mm
+- Now: 11.7°C, wind 12.8 km/h
+- Today: 11.5–15.0°C, precip 1.4 mm
 
 ### 📰 Today’s Headlines (HN)
-- [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/DebarghaG/proofofthought)
-- [Blog Feeds](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
-- [Newton: physics simulation engine built upon NVIDIA Warp](https://blogfeeds.net)
-- [AI-powered open-source code laundering](https://github.com/newton-physics/newton)
-- [What .NET 10 GC Changes Mean for Developers](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
+- [Why do LLMs freak out over the seahorse emoji?](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
+- [Magic Wormhole: Get things from one computer to another, safely](https://vgel.me/posts/seahorse/)
+- [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://magic-wormhole.readthedocs.io/en/latest/welcome.html)
+- [Celebrating 1 Trillion Web Pages Archived](https://www.srb2.org/)
+- [What GPT-OSS leaks about OpenAI&#x27;s training data](https://blog.archive.org/trillion/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
