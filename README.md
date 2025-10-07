@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-06 05:28 UTC**_
+_Last update: **2025-10-07 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,9 +10,9 @@ _Last update: **2025-10-06 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-06 05:28:58 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-05 05:27:03 UTC_  
+- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
 - [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
   Config files for my GitHub profile.
@@ -24,9 +24,6 @@ _Last update: **2025-10-06 05:28 UTC**_
 ### ⚡ Recent Activity (7d)
 - 2025-10-04 05:35 UTC — **Fork** in `microsoft/agent-framework`
 - 2025-10-04 05:35 UTC — **Watch** in `microsoft/agent-framework`
-- 2025-09-29 21:28 UTC — **Watch** in `linagora/twake-drive`
-- 2025-09-29 10:15 UTC — **Watch** in `flipswitchingmonkey/FlexASIO_GUI`
-- 2025-09-29 10:13 UTC — **Watch** in `dechamps/FlexASIO`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 11.7°C, wind 12.8 km/h
-- Today: 11.5–15.0°C, precip 1.4 mm
+- Now: 13.3°C, wind 7.2 km/h
+- Today: 13.2–15.4°C, precip 1.8 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Why do LLMs freak out over the seahorse emoji?](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
-- [Magic Wormhole: Get things from one computer to another, safely](https://vgel.me/posts/seahorse/)
-- [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://magic-wormhole.readthedocs.io/en/latest/welcome.html)
-- [Celebrating 1 Trillion Web Pages Archived](https://www.srb2.org/)
-- [What GPT-OSS leaks about OpenAI&#x27;s training data](https://blog.archive.org/trillion/)
+- [Pdoc – Generate API documentation for Python projects](https://thecascade.dev/article/least-amount-of-css/)
+- [Apps SDK](https://pdoc.dev/)
+- [Why did Crunchyroll&#x27;s subtitles just get worse?](https://developers.openai.com/apps-sdk/)
+- [Using Deno as my game engine](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
+- [Kirigami-inspired parachute falls on target](https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
