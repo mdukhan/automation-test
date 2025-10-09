@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-08 05:30 UTC**_
+_Last update: **2025-10-09 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-08 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-07 05:29:12 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-08 05:30:09 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -35,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 13.6°C, wind 10.1 km/h
-- Today: 13.2–15.5°C, precip 1.1 mm
+- Now: 11.7°C, wind 7.2 km/h
+- Today: 11.6–15.0°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Qualcomm to acquire Arduino](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-- [TiVo exiting legacy DVR business](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
-- [A terminal command that tells you if your USB-C cable is bad](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
-- [Seeing like a software company](https://kau.sh/blog/usbi/)
-- [The paradoxical efficient market hypothesis (2024)](https://www.seangoedecke.com/seeing-like-a-software-company/)
+- [Designing a Low Latency 10G Ethernet Core (2023)](https://therecord.media/california-signs-law-opt-out-browsers)
+- [We found a bug in Go&#x27;s ARM64 compiler](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
+- [Starlink is burning up one or two satellites a day in Earth&#x27;s atmosphere](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
+- [WinBoat: Windows apps on Linux with seamless integration](https://www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/)
+- [A History of Large Language Models](https://www.winboat.app/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
