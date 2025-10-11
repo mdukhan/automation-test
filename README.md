@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-10 05:29 UTC**_
+_Last update: **2025-10-11 05:27 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-10 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-09 05:29:59 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-10 05:30:06 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -35,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.4°C, wind 10.6 km/h
-- Today: 12.3–16.2°C, precip 0.0 mm
+- Now: 13.9°C, wind 9.8 km/h
+- Today: 13.4–15.3°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [A small number of samples can poison LLMs of any size](https://mitchellh.com/writing/building-large-technical-projects)
-- [Reasoning LLMs are wandering solution explorers](https://www.anthropic.com/research/small-samples-poison)
-- [Python 3.14 is here. How fast is it?](https://arxiv.org/abs/2505.20296)
-- [A beginner&#x27;s guide to deploying LLMs with AMD on Windows using PyTorch](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
-- [ScribeOCR – Web interface for recognizing text, OCR, &#x26; creating digitized docs](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
+- [(Re)Introducing the Pebble Appstore](https://fulghum.io/album-cards)
+- [Show HN: Semantic search over the National Gallery of Art](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
+- [Synthetic aperture radar autofocus and calibration](https://nga.demo.mixedbread.com/)
+- [Does our “need for speed” make our wi-fi suck?](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
+- [Tangled, a Git collaboration platform built on atproto](https://orb.net/blog/does-speed-make-wifi-suck)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
