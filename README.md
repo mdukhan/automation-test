@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-11 05:27 UTC**_
+_Last update: **2025-10-12 05:27 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-11 05:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-10 05:30:06 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-11 05:28:04 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -22,8 +22,9 @@ _Last update: **2025-10-11 05:27 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-- 2025-10-04 05:35 UTC — **Fork** in `microsoft/agent-framework`
-- 2025-10-04 05:35 UTC — **Watch** in `microsoft/agent-framework`
+- 2025-10-11 22:19 UTC — **Watch** in `stanford-mast/blast`
+- 2025-10-11 22:19 UTC — **Watch** in `catio-tech/graphqa`
+- 2025-10-11 22:07 UTC — **Watch** in `ashumishra2104/AI_Travel_agent_Streamlit`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -35,15 +36,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 13.9°C, wind 9.8 km/h
-- Today: 13.4–15.3°C, precip 0.0 mm
+- Now: 12.7°C, wind 10.1 km/h
+- Today: 12.7–16.2°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [(Re)Introducing the Pebble Appstore](https://fulghum.io/album-cards)
-- [Show HN: Semantic search over the National Gallery of Art](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
-- [Synthetic aperture radar autofocus and calibration](https://nga.demo.mixedbread.com/)
-- [Does our “need for speed” make our wi-fi suck?](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
-- [Tangled, a Git collaboration platform built on atproto](https://orb.net/blog/does-speed-make-wifi-suck)
+- [Show HN: Rift – A tiling window manager for macOS](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
+- [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://github.com/acsandmann/rift)
+- [Heroin addicts often seem normal](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
+- [Ask HN: Abandoned&#x2F;dead projects you think died before their time and why?](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
+- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://news.ycombinator.com/item?id=45553132)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
