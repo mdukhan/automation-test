@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-12 05:27 UTC**_
+_Last update: **2025-10-13 05:30 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-12 05:27 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-11 05:28:04 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-12 05:27:48 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -36,15 +36,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.7°C, wind 10.1 km/h
-- Today: 12.7–16.2°C, precip 0.0 mm
+- Now: 11.1°C, wind 1.6 km/h
+- Today: 10.4–15.5°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Show HN: Rift – A tiling window manager for macOS](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
-- [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://github.com/acsandmann/rift)
-- [Heroin addicts often seem normal](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
-- [Ask HN: Abandoned&#x2F;dead projects you think died before their time and why?](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
-- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://news.ycombinator.com/item?id=45553132)
+- [Wireguard FPGA](https://www.atlasobscura.com/articles/history-of-korean-food)
+- [Tauri binding for Python through Pyo3](https://github.com/chili-chips-ba/wireguard-fpga)
+- [MicroPythonOS – An Android-like OS for microcontrollers](https://github.com/pytauri/pytauri)
+- [Ask HN: What are you working on? (October 2025)](https://micropythonos.com)
+- [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://news.ycombinator.com/item?id=45561428)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
