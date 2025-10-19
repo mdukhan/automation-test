@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-18 05:28 UTC**_
+_Last update: **2025-10-19 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-18 05:28 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-17 05:29:26 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-18 05:28:47 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 4.0°C, wind 3.8 km/h
-- Today: 3.9–10.7°C, precip 0.0 mm
+- Now: 2.3°C, wind 10.2 km/h
+- Today: 2.2–10.6°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [New Work by Gary Larson](https://www.dwarkesh.com/p/andrej-karpathy)
-- [The Unix Executable as a Smalltalk Method [pdf]](https://www.thefarside.com/new-stuff)
-- [The pivot](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
-- [Exploring PostgreSQL 18&#x27;s new UUIDv7 support](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
-- [PlayStation 3 Architecture (2021)](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
+- [EQ: A video about all forms of equalizers](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
+- [How sober should a writer be?](https://www.youtube.com/watch?v=CLAt95PrwL4)
+- [Chen-Ning Yang, Nobel laureate, dies at 103](https://yalereview.org/article/crosley-how-sober-should-a-writer-be)
+- [How does Turbo listen for Turbo Streams](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
+- [Root System Drawings](https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
