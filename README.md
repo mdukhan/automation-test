@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-19 05:29 UTC**_
+_Last update: **2025-10-20 05:30 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-19 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-18 05:28:47 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-19 05:29:40 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 2.3°C, wind 10.2 km/h
-- Today: 2.2–10.6°C, precip 0.0 mm
+- Now: 3.8°C, wind 13.5 km/h
+- Today: 3.4–13.1°C, precip 5.3 mm
 
 ### 📰 Today’s Headlines (HN)
-- [EQ: A video about all forms of equalizers](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
-- [How sober should a writer be?](https://www.youtube.com/watch?v=CLAt95PrwL4)
-- [Chen-Ning Yang, Nobel laureate, dies at 103](https://yalereview.org/article/crosley-how-sober-should-a-writer-be)
-- [How does Turbo listen for Turbo Streams](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
-- [Root System Drawings](https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/)
+- [Introduction to reverse-engineering vintage synth firmware](https://zenodo.org/records/14179366)
+- [Novo Nordisk&#x27;s Canadian Mistake](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
+- [Forth: The programming language that writes itself](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
+- [Doing well in your courses: Andrej&#x27;s advice for success (2013)](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+- [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://cs.stanford.edu/people/karpathy/advice.html)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
