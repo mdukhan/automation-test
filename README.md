@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-20 05:30 UTC**_
+_Last update: **2025-10-21 05:30 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-20 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-19 05:29:40 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-20 05:30:45 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -22,11 +22,11 @@ _Last update: **2025-10-20 05:30 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-10-21 03:19 UTC — **Fork** in `mdukhan/article-explainer`
 - 2025-10-15 09:35 UTC — **Fork** in `mdukhan/SEAL`
 - 2025-10-15 09:34 UTC — **Watch** in `Continual-Intelligence/SEAL`
 - 2025-10-15 06:04 UTC — **Watch** in `mattrltrent/github_painter`
 - 2025-10-14 08:43 UTC — **Watch** in `corona-warn-app/cwa-server`
-- 2025-10-13 08:27 UTC — **Fork** in `mdukhan/PageLM`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 3.8°C, wind 13.5 km/h
-- Today: 3.4–13.1°C, precip 5.3 mm
+- Now: 10.9°C, wind 13.6 km/h
+- Today: 10.5–13.9°C, precip 3.5 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Introduction to reverse-engineering vintage synth firmware](https://zenodo.org/records/14179366)
-- [Novo Nordisk&#x27;s Canadian Mistake](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
-- [Forth: The programming language that writes itself](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
-- [Doing well in your courses: Andrej&#x27;s advice for success (2013)](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
-- [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://cs.stanford.edu/people/karpathy/advice.html)
+- [AWS multiple services outage in us-east-1](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
+- [Results from blood test for 50 cancers](https://health.aws.amazon.com/health/status?ts=20251020)
+- [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://www.bbc.com/news/articles/c205g21n1zzo)
+- [Building a message queue with only two UNIX signals](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
+- [Postman which I thought worked locally on my computer, is down](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
