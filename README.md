@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-21 05:30 UTC**_
+_Last update: **2025-10-22 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-21 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-20 05:30:45 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-21 05:30:20 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -26,7 +26,6 @@ _Last update: **2025-10-21 05:30 UTC**_
 - 2025-10-15 09:35 UTC — **Fork** in `mdukhan/SEAL`
 - 2025-10-15 09:34 UTC — **Watch** in `Continual-Intelligence/SEAL`
 - 2025-10-15 06:04 UTC — **Watch** in `mattrltrent/github_painter`
-- 2025-10-14 08:43 UTC — **Watch** in `corona-warn-app/cwa-server`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 10.9°C, wind 13.6 km/h
-- Today: 10.5–13.9°C, precip 3.5 mm
+- Now: 11.2°C, wind 9.7 km/h
+- Today: 10.9–14.4°C, precip 0.9 mm
 
 ### 📰 Today’s Headlines (HN)
-- [AWS multiple services outage in us-east-1](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
-- [Results from blood test for 50 cancers](https://health.aws.amazon.com/health/status?ts=20251020)
-- [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://www.bbc.com/news/articles/c205g21n1zzo)
-- [Building a message queue with only two UNIX signals](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
-- [Postman which I thought worked locally on my computer, is down](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
+- [Power over Ethernet (PoE) basics and beyond](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
+- [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
+- [Show HN: Modshim – A new alternative to monkey-patching in Python](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
+- [OpenBSD 7.8](https://github.com/joouha/modshim)
+- [LLMs can get &quot;brain rot&quot;](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
