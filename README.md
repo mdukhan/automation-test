@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-22 05:31 UTC**_
+_Last update: **2025-10-23 05:30 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-22 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-21 05:30:20 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-22 05:31:10 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -22,10 +22,8 @@ _Last update: **2025-10-22 05:31 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-10-22 13:39 UTC — **Watch** in `jupyterlab/jupyterlab`
 - 2025-10-21 03:19 UTC — **Fork** in `mdukhan/article-explainer`
-- 2025-10-15 09:35 UTC — **Fork** in `mdukhan/SEAL`
-- 2025-10-15 09:34 UTC — **Watch** in `Continual-Intelligence/SEAL`
-- 2025-10-15 06:04 UTC — **Watch** in `mattrltrent/github_painter`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -37,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 11.2°C, wind 9.7 km/h
-- Today: 10.9–14.4°C, precip 0.9 mm
+- Now: 10.9°C, wind 14.5 km/h
+- Today: 8.8–14.8°C, precip 4.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Power over Ethernet (PoE) basics and beyond](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
-- [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
-- [Show HN: Modshim – A new alternative to monkey-patching in Python](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
-- [OpenBSD 7.8](https://github.com/joouha/modshim)
-- [LLMs can get &quot;brain rot&quot;](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
+- [Run interactive commands in Gemini CLI](https://immich.app/blog/google-flags-immich-as-dangerous)
+- [Sodium-ion batteries have started to appear in cars and home storage](https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/)
+- [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
+- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
+- [Scripts I wrote that I use all the time](https://github.com/character-ai/Ovi)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
