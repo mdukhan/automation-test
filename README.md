@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-25 05:29 UTC**_
+_Last update: **2025-10-26 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-25 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-24 05:30:03 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-25 05:29:15 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -37,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 8.8°C, wind 17.8 km/h
-- Today: 8.8–10.9°C, precip 5.3 mm
+- Now: 6.8°C, wind 22.1 km/h
+- Today: 5.6–11.1°C, precip 19.6 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Unlocking Free WiFi on British Airways](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
-- [People with blindness can read again after retinal implant and special glasses](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
-- [Valetudo: Cloud replacement for vacuum robots enabling local-only operation](https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488)
-- [What Is Intelligence? (2024)](https://valetudo.cloud/)
-- [First shape found that can&#x27;t pass through itself](https://whatisintelligence.antikythera.org/)
+- [A worker fell into a nuclear reactor pool](https://github.com/apple/pico-banana-400k)
+- [The Linux Boot Process: From Power Button to Kernel](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
+- [PCB Edge USB C Connector Library](https://www.0xkato.xyz/linux-boot/)
+- [California invests in battery energy storage, leaving rolling blackouts behind](https://github.com/AnasMalas/pcb-edge-usb-c)
+- [The Journey Before main()](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
