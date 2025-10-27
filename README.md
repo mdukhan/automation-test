@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-26 05:29 UTC**_
+_Last update: **2025-10-27 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-26 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-25 05:29:15 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-26 05:29:13 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -37,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 6.8°C, wind 22.1 km/h
-- Today: 5.6–11.1°C, precip 19.6 mm
+- Now: 7.6°C, wind 16.8 km/h
+- Today: 6.8–9.9°C, precip 10.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [A worker fell into a nuclear reactor pool](https://github.com/apple/pico-banana-400k)
-- [The Linux Boot Process: From Power Button to Kernel](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
-- [PCB Edge USB C Connector Library](https://www.0xkato.xyz/linux-boot/)
-- [California invests in battery energy storage, leaving rolling blackouts behind](https://github.com/AnasMalas/pcb-edge-usb-c)
-- [The Journey Before main()](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert)
+- [How I turned Zig into my favorite language to write network programs in](https://github.com/dvir-biton/MyraOS)
+- [Sandhill cranes have adopted a Canada gosling](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
+- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/)
+- [You already have a Git server](https://github.com/rochus-keller/Are-we-fast-yet)
+- [We Saved $500k per Year by Rolling Our Own &quot;S3&quot;](https://maurycyz.com/misc/easy_git/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
