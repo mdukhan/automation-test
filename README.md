@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-28 05:31 UTC**_
+_Last update: **2025-10-29 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-28 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-27 05:32:34 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-28 05:31:46 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -36,15 +36,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 7.1°C, wind 16.5 km/h
-- Today: 7.0–11.9°C, precip 6.7 mm
+- Now: 8.6°C, wind 12.7 km/h
+- Today: 8.5–13.2°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate)
-- [Easy RISC-V](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
-- [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://dramforever.github.io/easyriscv/)
-- [Claude for Excel](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
-- [Simplify your code: Functional core, imperative shell](https://www.claude.com/claude-for-excel)
+- [What we talk about when we talk about sideloading](http://keepandroidopen.org/)
+- [ChatGPT&#x27;s Atlas: The Browser That&#x27;s Anti-Web](https://f-droid.org/2025/10/28/sideloading.html)
+- [Tips for stroke-surviving software engineers](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
+- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
+- [Tinkering is a way to acquire good taste](https://eurollm.io/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
