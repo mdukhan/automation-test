@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-29 05:32 UTC**_
+_Last update: **2025-10-30 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-29 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-28 05:31:46 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-29 05:32:16 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -24,7 +24,6 @@ _Last update: **2025-10-29 05:32 UTC**_
 ### ⚡ Recent Activity (7d)
 - 2025-10-24 04:38 UTC — **Fork** in `mdukhan/cuga-agent`
 - 2025-10-24 04:38 UTC — **Watch** in `cuga-project/cuga-agent`
-- 2025-10-22 13:39 UTC — **Watch** in `jupyterlab/jupyterlab`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -36,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 8.6°C, wind 12.7 km/h
-- Today: 8.5–13.2°C, precip 0.0 mm
+- Now: 10.3°C, wind 20.0 km/h
+- Today: 8.8–12.8°C, precip 10.3 mm
 
 ### 📰 Today’s Headlines (HN)
-- [What we talk about when we talk about sideloading](http://keepandroidopen.org/)
-- [ChatGPT&#x27;s Atlas: The Browser That&#x27;s Anti-Web](https://f-droid.org/2025/10/28/sideloading.html)
-- [Tips for stroke-surviving software engineers](https://www.anildash.com//2025/10/22/atlas-anti-web-browser/)
-- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
-- [Tinkering is a way to acquire good taste](https://eurollm.io/)
+- [Tell HN: Azure outage](https://emily.space/posts/251023-uv)
+- [Minecraft removing obfuscation in Java Edition](https://news.ycombinator.com/item?id=45748661)
+- [How Ancient People Saw Themselves](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
+- [IRCd service (2024)](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
+- [China has added forest the size of Texas since 1990](https://example.fi/blog/ircd.html)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
