@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-30 05:31 UTC**_
+_Last update: **2025-10-31 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-30 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-29 05:32:16 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-30 05:31:08 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -22,8 +22,7 @@ _Last update: **2025-10-30 05:31 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-- 2025-10-24 04:38 UTC — **Fork** in `mdukhan/cuga-agent`
-- 2025-10-24 04:38 UTC — **Watch** in `cuga-project/cuga-agent`
+_No public activity in the last week._
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -35,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 10.3°C, wind 20.0 km/h
-- Today: 8.8–12.8°C, precip 10.3 mm
+- Now: 5.8°C, wind 6.2 km/h
+- Today: 5.5–12.0°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Tell HN: Azure outage](https://emily.space/posts/251023-uv)
-- [Minecraft removing obfuscation in Java Edition](https://news.ycombinator.com/item?id=45748661)
-- [How Ancient People Saw Themselves](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
-- [IRCd service (2024)](https://worldhistory.substack.com/p/how-ancient-people-saw-themselves)
-- [China has added forest the size of Texas since 1990](https://example.fi/blog/ircd.html)
+- [Affinity Studio now free](https://github.com/lemonyte/no-code)
+- [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.affinity.studio/get-affinity)
+- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
+- [Phone numbers for use in TV shows, films and creative works](https://github.com/MoonshotAI/Kimi-Linear)
+- [The ear does not do a Fourier transform (2024)](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
