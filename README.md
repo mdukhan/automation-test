@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-10-31 05:31 UTC**_
+_Last update: **2025-11-01 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-10-31 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-30 05:31:08 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-31 05:31:41 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 5.8°C, wind 6.2 km/h
-- Today: 5.5–12.0°C, precip 0.0 mm
+- Now: 6.5°C, wind 7.8 km/h
+- Today: 6.1–14.2°C, precip 1.7 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Affinity Studio now free](https://github.com/lemonyte/no-code)
-- [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.affinity.studio/get-affinity)
-- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
-- [Phone numbers for use in TV shows, films and creative works](https://github.com/MoonshotAI/Kimi-Linear)
-- [The ear does not do a Fourier transform (2024)](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
+- [The Profitable Startup](https://blog.shashanktomar.com/posts/strange-attractors)
+- [Intent to Deprecate and Remove: Deprecate and Remove XSLT](https://linear.app/now/the-profitable-startup)
+- [S.A.R.C.A.S.M: Slightly Annoying Rubik&#x27;s Cube Automatic Solving Machine](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
+- [Futurelock: A subtle risk in async Rust](https://github.com/vindar/SARCASM)
+- [Why Should I Care What Color the Bikeshed Is?](https://rfd.shared.oxide.computer/rfd/0609)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
