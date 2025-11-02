@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-01 05:29 UTC**_
+_Last update: **2025-11-02 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-01 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-10-31 05:31:41 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-01 05:29:10 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 6.5°C, wind 7.8 km/h
-- Today: 6.1–14.2°C, precip 1.7 mm
+- Now: 10.1°C, wind 10.5 km/h
+- Today: 8.9–12.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [The Profitable Startup](https://blog.shashanktomar.com/posts/strange-attractors)
-- [Intent to Deprecate and Remove: Deprecate and Remove XSLT](https://linear.app/now/the-profitable-startup)
-- [S.A.R.C.A.S.M: Slightly Annoying Rubik&#x27;s Cube Automatic Solving Machine](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
-- [Futurelock: A subtle risk in async Rust](https://github.com/vindar/SARCASM)
-- [Why Should I Care What Color the Bikeshed Is?](https://rfd.shared.oxide.computer/rfd/0609)
+- [You Don&#x27;t Need Anubis](https://visopsys.org/)
+- [Pomelli](https://fxgn.dev/blog/anubis/)
+- [Crossfire: High-performance lockless spsc&#x2F;mpsc&#x2F;mpmc channels for Rust](https://blog.google/technology/google-labs/pomelli/)
+- [How I use every Claude Code feature](https://github.com/frostyplanet/crossfire-rs)
+- [Claude Code can debug low-level cryptography](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
