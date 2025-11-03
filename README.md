@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-02 05:29 UTC**_
+_Last update: **2025-11-03 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,9 +10,9 @@ _Last update: **2025-11-02 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-01 05:29:10 UTC_  
+- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
-- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-10-06 05:28:53 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-02 05:29:50 UTC_  
   
 - [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
   Config files for my GitHub profile.
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 10.1°C, wind 10.5 km/h
-- Today: 8.9–12.4°C, precip 0.0 mm
+- Now: 8.6°C, wind 13.4 km/h
+- Today: 7.6–11.1°C, precip 1.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [You Don&#x27;t Need Anubis](https://visopsys.org/)
-- [Pomelli](https://fxgn.dev/blog/anubis/)
-- [Crossfire: High-performance lockless spsc&#x2F;mpsc&#x2F;mpmc channels for Rust](https://blog.google/technology/google-labs/pomelli/)
-- [How I use every Claude Code feature](https://github.com/frostyplanet/crossfire-rs)
-- [Claude Code can debug low-level cryptography](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
+- [Facts about throwing good parties](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
+- [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+- [Oxy is Cloudflare&#x27;s Rust-based next generation proxy framework](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
+- [When models manipulate manifolds: The geometry of a counting task](https://blog.cloudflare.com/introducing-oxy/)
+- [Using FreeBSD to make self-hosting fun again](https://transformer-circuits.pub/2025/linebreaks/index.html)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
