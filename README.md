@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-04 05:31 UTC**_
+_Last update: **2025-11-05 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-04 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-03 05:31:48 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-04 05:31:39 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 12.3°C, wind 13.6 km/h
-- Today: 10.6–14.6°C, precip 0.0 mm
+- Now: 10.2°C, wind 8.0 km/h
+- Today: 10.0–16.9°C, precip 0.1 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Things you can do with diodes](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
-- [AI&#x27;s Dial-Up Era](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
-- [A friendly tour of process memory on Linux](https://www.wreflection.com/p/ai-dial-up-era)
-- [When stick figures fought](https://www.0xkato.xyz/linux-process-memory/)
-- [An individual can change an organization](https://animationobsessive.substack.com/p/when-stick-figures-fought)
+- [Hypothesis: Property-Based Testing for Python](https://inventingthefuture.ghost.io/mr-tiff/)
+- [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://hypothesis.readthedocs.io/en/latest/)
+- [GM Deprecating In-Car App Store for Models as Recent as 2020](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
+- [Apple’s Persona technology uses Gaussian splatting to create 3D facial scans](https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/)
+- [RISC-V takes first step toward international ISO&#x2F;IEC standardization](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
