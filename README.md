@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-05 05:31 UTC**_
+_Last update: **2025-11-06 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-05 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-04 05:31:39 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-05 05:31:51 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 10.2°C, wind 8.0 km/h
-- Today: 10.0–16.9°C, precip 0.1 mm
+- Now: 7.2°C, wind 6.9 km/h
+- Today: 6.2–12.2°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Hypothesis: Property-Based Testing for Python](https://inventingthefuture.ghost.io/mr-tiff/)
-- [Asus Announces October Availability of ProArt Display 8K PA32KCX](https://hypothesis.readthedocs.io/en/latest/)
-- [GM Deprecating In-Car App Store for Models as Recent as 2020](https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/)
-- [Apple’s Persona technology uses Gaussian splatting to create 3D facial scans](https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/)
-- [RISC-V takes first step toward international ISO&#x2F;IEC standardization](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
+- [Solarpunk is happening in Africa](https://support.mozilla.org/en-US/forums/contributors/717446)
+- [Rust&#x27;s TUI Revolution](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
+- [Dillo, a multi-platform graphical web browser](https://ratatui.rs/showcase/apps/)
+- [Recursive macros in C, demystified (once the ugly crying stops)](https://github.com/dillo-browser/dillo)
+- [ChatGPT terms disallow its use in providing legal and medical advice to others](https://h4x0r.org/big-mac-ro-attack/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
