@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-06 05:31 UTC**_
+_Last update: **2025-11-07 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-06 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-05 05:31:51 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-06 05:31:49 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 7.2°C, wind 6.9 km/h
-- Today: 6.2–12.2°C, precip 0.0 mm
+- Now: 2.5°C, wind 5.0 km/h
+- Today: 1.8–10.7°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Solarpunk is happening in Africa](https://support.mozilla.org/en-US/forums/contributors/717446)
-- [Rust&#x27;s TUI Revolution](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
-- [Dillo, a multi-platform graphical web browser](https://ratatui.rs/showcase/apps/)
-- [Recursive macros in C, demystified (once the ugly crying stops)](https://github.com/dillo-browser/dillo)
-- [ChatGPT terms disallow its use in providing legal and medical advice to others](https://h4x0r.org/big-mac-ro-attack/)
+- [You should write an agent](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
+- [Two billion email addresses were exposed](https://fly.io/blog/everyone-write-an-agent/)
+- [Scientists find ways to boost memory in aging brains](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
+- [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
+- [Game design is simple](https://moonshotai.github.io/Kimi-K2/thinking.html)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
