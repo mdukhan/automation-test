@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-08 05:29 UTC**_
+_Last update: **2025-11-09 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-08 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-07 05:31:29 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-08 05:29:12 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 8.3°C, wind 4.1 km/h
-- Today: 6.6–8.5°C, precip 0.0 mm
+- Now: 6.4°C, wind 7.2 km/h
+- Today: 6.3–9.5°C, precip 1.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Snapchat open-sources Valdi a cross-platform UI framework](https://nilostolte.github.io/tech/articles/ZigCool.html)
-- [Mullvad: Shutting down our search proxy Leta](https://github.com/Snapchat/Valdi)
-- [Becoming a Compiler Engineer](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
-- [Myna: Monospace typeface designed for symbol-heavy programming languages](https://rona.substack.com/p/becoming-a-compiler-engineer)
-- [How did I get here?](https://github.com/sayyadirfanali/Myna)
+- [Tabloid: The Clickbait Headline Programming Language](https://ironclad-os.org/)
+- [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://tabloid.vercel.app/)
+- [Marko – A declarative, HTML‑based language](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
+- [Largest cargo sailboat completes first Atlantic crossing](https://markojs.com/)
+- [Study identifies weaknesses in how AI systems are evaluated](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
