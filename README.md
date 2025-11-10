@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-09 05:29 UTC**_
+_Last update: **2025-11-10 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-09 05:29 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-08 05:29:12 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-09 05:29:35 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 6.4°C, wind 7.2 km/h
-- Today: 6.3–9.5°C, precip 1.2 mm
+- Now: 7.6°C, wind 6.0 km/h
+- Today: 6.8–10.2°C, precip 0.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Tabloid: The Clickbait Headline Programming Language](https://ironclad-os.org/)
-- [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://tabloid.vercel.app/)
-- [Marko – A declarative, HTML‑based language](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
-- [Largest cargo sailboat completes first Atlantic crossing](https://markojs.com/)
-- [Study identifies weaknesses in how AI systems are evaluated](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/)
+- [40 years on, Former Nintendo employees reveal what it took to launch the NES](https://github.com/opencontainers/runc/issues/4990)
+- [Marble Fountain](https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/)
+- [Ask HN: What Are You Working On? (Nov 2025)](https://willmorrison.net/posts/marble-fountain/)
+- [Montana becomes first state to enshrine &#x27;right to compute&#x27; into law](https://news.ycombinator.com/item?id=45869146)
+- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
