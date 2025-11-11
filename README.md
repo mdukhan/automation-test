@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-10 05:31 UTC**_
+_Last update: **2025-11-11 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-10 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-09 05:29:35 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-10 05:31:37 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -22,11 +22,9 @@ _Last update: **2025-11-10 05:31 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-- 2025-11-03 18:01 UTC — **Watch** in `touying-typ/touying`
-- 2025-11-03 13:22 UTC — **Fork** in `mdukhan/agent-lightning`
-- 2025-11-03 13:22 UTC — **Watch** in `microsoft/agent-lightning`
-- 2025-11-03 09:00 UTC — **Fork** in `mdukhan/AI_Agent_Chatbot_Synapse`
-- 2025-11-03 08:59 UTC — **Watch** in `raj-maharajwala/AI_Agent_Chatbot_Synapse`
+- 2025-11-10 22:26 UTC — **Watch** in `daviddrummond95/polar_llama`
+- 2025-11-10 18:03 UTC — **Fork** in `mdukhan/n8n`
+- 2025-11-10 18:03 UTC — **Watch** in `n8n-io/n8n`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +36,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 7.6°C, wind 6.0 km/h
-- Today: 6.8–10.2°C, precip 0.2 mm
+- Now: 6.9°C, wind 6.3 km/h
+- Today: 5.5–11.3°C, precip 2.8 mm
 
 ### 📰 Today’s Headlines (HN)
-- [40 years on, Former Nintendo employees reveal what it took to launch the NES](https://github.com/opencontainers/runc/issues/4990)
-- [Marble Fountain](https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/)
-- [Ask HN: What Are You Working On? (Nov 2025)](https://willmorrison.net/posts/marble-fountain/)
-- [Montana becomes first state to enshrine &#x27;right to compute&#x27; into law](https://news.ycombinator.com/item?id=45869146)
-- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
+- [AI documentation you can talk to, for every repo](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
+- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://deepwiki.com/)
+- [When Soviet-made cars roamed Singapore roads](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
+- [Unexpected things that are people](https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/)
+- [Unix v4 Tape Found](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
