@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-13 05:31 UTC**_
+_Last update: **2025-11-14 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-13 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-12 05:32:14 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-13 05:32:05 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 9.8°C, wind 7.2 km/h
-- Today: 9.2–15.6°C, precip 0.1 mm
+- Now: 10.4°C, wind 7.4 km/h
+- Today: 7.1–12.1°C, precip 24.9 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Steam Machine](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
-- [Steam Frame](https://store.steampowered.com/sale/steammachine)
-- [Android 16 QPR1 is being pushed to the Android Open Source Project](https://store.steampowered.com/sale/steamframe)
-- [The last-ever penny will be minted today in Philadelphia](https://grapheneos.social/@GrapheneOS/115533432439509433)
-- [Human Fovea Detector](https://www.cnn.com/2025/11/12/business/last-penny-minted)
+- [Why Fei-Fei Li and Yann LeCun Are Both Betting on &quot;World Models&quot;](https://minimaxir.com/2025/11/nano-banana-prompts/)
+- [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
+- [650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark](https://www.anthropic.com/news/disrupting-AI-espionage)
+- [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
+- [Copyright winter is coming (to Wikipedia?)](https://www.tweeks.io/onboarding)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
