@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-15 05:30 UTC**_
+_Last update: **2025-11-16 05:30 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-15 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-14 05:31:27 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-15 05:30:15 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -22,11 +22,11 @@ _Last update: **2025-11-15 05:30 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-11-15 13:38 UTC — **Watch** in `bpmn-io/bpmn-js-token-simulation`
 - 2025-11-14 21:07 UTC — **Watch** in `flairNLP/flair`
 - 2025-11-14 20:40 UTC — **Watch** in `brettbuddin/musictheory`
 - 2025-11-14 20:37 UTC — **Watch** in `hisschemoller/music-pattern-generator`
 - 2025-11-14 20:36 UTC — **Watch** in `tambien/Piano`
-- 2025-11-14 09:57 UTC — **Fork** in `mdukhan/BentoML`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 6.4°C, wind 14.5 km/h
-- Today: 5.5–7.0°C, precip 7.6 mm
+- Now: 5.2°C, wind 9.6 km/h
+- Today: 3.4–6.7°C, precip 2.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [AI World Clocks](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
-- [SSL Configuration Generator](https://clocks.brianmoore.com/)
-- [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://ssl-config.mozilla.org/)
-- [Has Google solved two of AI’s oldest problems?](https://modzero.com/en/blog/no-leak-no-problem/)
-- [HipKittens: Fast and furious AMD kernels](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
+- [IDEmacs: A Visual Studio Code clone for Emacs](https://github.com/kavishdevar/librepods)
+- [Our investigation into the suspicious pressure on Archive.today](https://codeberg.org/IDEmacs/IDEmacs)
+- [libwifi: an 802.11 frame parsing and generation library written in C](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
+- [Blocking LLM crawlers without JavaScript](https://libwifi.so/)
+- [Things that aren&#x27;t doing the thing](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
