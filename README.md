@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-18 05:31 UTC**_
+_Last update: **2025-11-19 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-18 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-17 05:32:37 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-18 05:31:40 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 4.2°C, wind 13.2 km/h
-- Today: 3.1–6.3°C, precip 5.0 mm
+- Now: 3.7°C, wind 8.4 km/h
+- Today: 1.8–5.1°C, precip 7.6 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Show HN: I built a synth for my daughter](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
-- [The obvious economics of preserving the Amazon](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
-- [Compiling Ruby to machine language](https://www.economist.com/the-americas/2025/10/23/the-obvious-economics-of-preserving-the-amazon)
-- [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
-- [Rust9x Unofficial &quot;Tier 4&quot; Rust Target for Windows 9x&#x2F;Me&#x2F;NT&#x2F;2000&#x2F;XP&#x2F;Vista](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
+- [Gemini 3](https://blog.cloudflare.com/18-november-2025-outage/)
+- [Google Antigravity](https://blog.google/products/gemini/gemini-3/)
+- [Show HN: Browser-based interactive 3D Three-Body problem simulator](https://antigravity.google/)
+- [Pebble, Rebble, and a path forward](https://trisolarchaos.com/?pr=O_8(0.6)&amp;n=3&amp;s=5.0&amp;so=0.00&amp;im=rk4&amp;dt=1.00e-4&amp;rt=1.0e-6&amp;at=1.0e-8&amp;bs=0.15&amp;sf=0&amp;sv=0&amp;cm=free&amp;kt=1&amp;st=1&amp;tl=1500&amp;cp=2.5208,1.5125,2.5208&amp;ct=0.0000,0.0000,0.1670)
+- [Blender 5.0](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
