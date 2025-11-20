@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-19 05:32 UTC**_
+_Last update: **2025-11-20 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-19 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-18 05:31:40 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-19 05:32:26 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 3.7°C, wind 8.4 km/h
-- Today: 1.8–5.1°C, precip 7.6 mm
+- Now: 2.4°C, wind 14.4 km/h
+- Today: -0.7–3.3°C, precip 4.4 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Gemini 3](https://blog.cloudflare.com/18-november-2025-outage/)
-- [Google Antigravity](https://blog.google/products/gemini/gemini-3/)
-- [Show HN: Browser-based interactive 3D Three-Body problem simulator](https://antigravity.google/)
-- [Pebble, Rebble, and a path forward](https://trisolarchaos.com/?pr=O_8(0.6)&amp;n=3&amp;s=5.0&amp;so=0.00&amp;im=rk4&amp;dt=1.00e-4&amp;rt=1.0e-6&amp;at=1.0e-8&amp;bs=0.15&amp;sf=0&amp;sv=0&amp;cm=free&amp;kt=1&amp;st=1&amp;tl=1500&amp;cp=2.5208,1.5125,2.5208&amp;ct=0.0000,0.0000,0.1670)
-- [Blender 5.0](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/)
+- [A surprise with how &#x27;#!&#x27; handles its program argument in practice](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
+- [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise)
+- [Europe is scaling back GDPR and relaxing AI laws](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
+- [The Complete Work of Charles Darwin Online](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
+- [Meta Segment Anything Model 3](https://darwin-online.org.uk/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
