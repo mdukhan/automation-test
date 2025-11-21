@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-20 05:31 UTC**_
+_Last update: **2025-11-21 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-20 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-19 05:32:26 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-20 05:32:04 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 2.4°C, wind 14.4 km/h
-- Today: -0.7–3.3°C, precip 4.4 mm
+- Now: -1.5°C, wind 5.6 km/h
+- Today: -1.9–2.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [A surprise with how &#x27;#!&#x27; handles its program argument in practice](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
-- [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise)
-- [Europe is scaling back GDPR and relaxing AI laws](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
-- [The Complete Work of Charles Darwin Online](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
-- [Meta Segment Anything Model 3](https://darwin-online.org.uk/)
+- [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/technology/ai/nano-banana-pro/)
+- [FEX-emu – Run x86 applications on ARM64 Linux devices](https://blog.google/products/android/quick-share-airdrop/)
+- [Why top firms fire good workers](https://fex-emu.com/)
+- [Over-regulation is doubling the cost](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
+- [New Glenn Update](https://rein.pk/over-regulation-is-doubling-the-cost)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
