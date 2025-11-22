@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-21 05:32 UTC**_
+_Last update: **2025-11-22 05:29 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-21 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-20 05:32:04 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-21 05:32:20 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -23,10 +23,6 @@ _Last update: **2025-11-21 05:32 UTC**_
 
 ### ⚡ Recent Activity (7d)
 - 2025-11-15 13:38 UTC — **Watch** in `bpmn-io/bpmn-js-token-simulation`
-- 2025-11-14 21:07 UTC — **Watch** in `flairNLP/flair`
-- 2025-11-14 20:40 UTC — **Watch** in `brettbuddin/musictheory`
-- 2025-11-14 20:37 UTC — **Watch** in `hisschemoller/music-pattern-generator`
-- 2025-11-14 20:36 UTC — **Watch** in `tambien/Piano`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -1.5°C, wind 5.6 km/h
-- Today: -1.9–2.4°C, precip 0.0 mm
+- Now: -0.9°C, wind 9.2 km/h
+- Today: -0.9–3.3°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/technology/ai/nano-banana-pro/)
-- [FEX-emu – Run x86 applications on ARM64 Linux devices](https://blog.google/products/android/quick-share-airdrop/)
-- [Why top firms fire good workers](https://fex-emu.com/)
-- [Over-regulation is doubling the cost](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
-- [New Glenn Update](https://rein.pk/over-regulation-is-doubling-the-cost)
+- [Personal blogs are back, should niche blogs be next?](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
+- [Helping Valve to power up Steam devices](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
+- [Samsung&#x27;s 60% DRAM price hike signals a new phase of global memory tightening](https://www.igalia.com/2025/11/helpingvalve.html)
+- [Apple&#x27;s Problem with Bodies](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
+- [Arduino Terms of Service and Privacy Policy update: setting the record straight](https://drobinin.com/posts/apples-problem-with-bodies/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
