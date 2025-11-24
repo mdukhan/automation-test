@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-23 05:30 UTC**_
+_Last update: **2025-11-24 05:34 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-23 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-22 05:29:55 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-23 05:31:01 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -2.0°C, wind 10.3 km/h
-- Today: -2.3–1.9°C, precip 0.0 mm
+- Now: 1.4°C, wind 8.4 km/h
+- Today: -0.6–5.1°C, precip 4.5 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Unusual circuits in the Intel 386&#x27;s standard cell logic](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
-- [A monopoly ISP refuses to fix upstream infrastructure](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
-- [We Induced Smells With Ultrasound](https://sacbear.com/xfinity-wont-fix-internet/)
-- [NTSB report: Decryption of images from the Titan submersible camera [pdf]](https://writetobrain.com/olfactory)
-- [WorldGen – Text to Immersive 3D Worlds](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&amp;FileExtension=pdf&amp;FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
+- [The Cloudflare outage was a good thing](https://computer.rip/2025-11-22-RuBee.html)
+- [Fran Sans – font inspired by San Francisco light rail displays](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
+- [Ask HN: Hearing aid wearers, what&#x27;s hot?](https://emilysneddon.com/fran-sans-essay)
+- [We stopped roadmap work for a week and fixed 189 bugs](https://news.ycombinator.com/item?id=46029699)
+- [The Rust Performance Book (2020)](https://lalitm.com/fixits-are-good-for-the-soul/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
