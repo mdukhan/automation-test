@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-25 05:32 UTC**_
+_Last update: **2025-11-26 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-25 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-24 05:34:14 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-25 05:32:52 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 3.1°C, wind 3.9 km/h
-- Today: 2.1–5.3°C, precip 0.0 mm
+- Now: 3.0°C, wind 4.3 km/h
+- Today: 2.9–5.6°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Unpowered SSDs slowly lose data](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
-- [Claude Advanced Tool Use](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
-- [A million ways to die from a data race in Go](https://www.anthropic.com/engineering/advanced-tool-use)
-- [Cool-retro-term: terminal emulator which mimics look and feel of CRTs](https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html)
-- [Show HN: I built an interactive HN Simulator](https://github.com/Swordfish90/cool-retro-term)
+- [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.joshwcomeau.com/css/subgrid/)
+- [Surprisingly, Emacs on Android is pretty good](https://www.mikeayles.com/#kidoom)
+- [Space Truckin&#x27; – The Nostromo (2012)](https://kristofferbalintona.me/posts/202505291438/)
+- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
+- [A new bridge links the math of infinity to computer science](https://wordpress.org/plugins/bandwidth-saver/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
