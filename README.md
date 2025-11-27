@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-26 05:32 UTC**_
+_Last update: **2025-11-27 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-26 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-25 05:32:52 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-26 05:32:15 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 3.0°C, wind 4.3 km/h
-- Today: 2.9–5.6°C, precip 0.0 mm
+- Now: 0.6°C, wind 12.4 km/h
+- Today: 0.6–6.0°C, precip 1.9 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.joshwcomeau.com/css/subgrid/)
-- [Surprisingly, Emacs on Android is pretty good](https://www.mikeayles.com/#kidoom)
-- [Space Truckin&#x27; – The Nostromo (2012)](https://kristofferbalintona.me/posts/202505291438/)
-- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
-- [A new bridge links the math of infinity to computer science](https://wordpress.org/plugins/bandwidth-saver/)
+- [DIY NAS: 2026 Edition](https://ziglang.org/news/migrating-from-github-to-codeberg/)
+- [Penpot: The Open-Source Figma](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
+- [Voyager 1 is about to reach one light-day from Earth](https://github.com/penpot/penpot)
+- [Coq: The World&#x27;s Best Macro Assembler? [pdf]](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
+- [Running Unsupported iOS on Deprecated Devices](https://nickbenton.name/coqasm.pdf)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
