@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-27 05:32 UTC**_
+_Last update: **2025-11-28 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-27 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-26 05:32:15 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-27 05:33:00 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 0.6°C, wind 12.4 km/h
-- Today: 0.6–6.0°C, precip 1.9 mm
+- Now: 7.5°C, wind 16.0 km/h
+- Today: 6.5–8.4°C, precip 3.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [DIY NAS: 2026 Edition](https://ziglang.org/news/migrating-from-github-to-codeberg/)
-- [Penpot: The Open-Source Figma](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
-- [Voyager 1 is about to reach one light-day from Earth](https://github.com/penpot/penpot)
-- [Coq: The World&#x27;s Best Macro Assembler? [pdf]](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
-- [Running Unsupported iOS on Deprecated Devices](https://nickbenton.name/coqasm.pdf)
+- [Pocketbase – open-source realtime back end in 1 file](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
+- [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://pocketbase.io/)
+- [250MWh &#x27;Sand Battery&#x27; to start construction in Finland](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
+- [Vsora Jotunn-8 5nm European inference chip](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
+- [Physicists drive antihydrogen breakthrough at CERN](https://vsora.com/products/jotunn-8/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
