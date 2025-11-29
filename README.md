@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-28 05:32 UTC**_
+_Last update: **2025-11-29 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-28 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-27 05:33:00 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-28 05:32:53 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -22,7 +22,7 @@ _Last update: **2025-11-28 05:32 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-_No public activity in the last week._
+- 2025-11-29 00:37 UTC — **Fork** in `mdukhan/text-generation-webui`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 7.5°C, wind 16.0 km/h
-- Today: 6.5–8.4°C, precip 3.2 mm
+- Now: 8.5°C, wind 11.2 km/h
+- Today: 6.4–9.5°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Pocketbase – open-source realtime back end in 1 file](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
-- [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://pocketbase.io/)
-- [250MWh &#x27;Sand Battery&#x27; to start construction in Finland](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
-- [Vsora Jotunn-8 5nm European inference chip](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
-- [Physicists drive antihydrogen breakthrough at CERN](https://vsora.com/products/jotunn-8/)
+- [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://macos9lives.com/smforum/index.php?topic=7711.0)
+- [A triangle whose interior angles sum to zero](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
+- [Imgur geo-blocked the UK, so I geo-unblocked my network](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
+- [Molly: An Improved Signal App](https://blog.tymscar.com/posts/imgurukproxy/)
+- [Confessions of a Software Developer: No More Self-Censorship](https://molly.im/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
