@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-29 05:31 UTC**_
+_Last update: **2025-11-30 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-11-29 05:31 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-28 05:32:53 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-29 05:31:26 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
   
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 8.5°C, wind 11.2 km/h
-- Today: 6.4–9.5°C, precip 0.0 mm
+- Now: 9.4°C, wind 12.2 km/h
+- Today: 4.7–9.6°C, precip 0.1 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://macos9lives.com/smforum/index.php?topic=7711.0)
-- [A triangle whose interior angles sum to zero](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
-- [Imgur geo-blocked the UK, so I geo-unblocked my network](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
-- [Molly: An Improved Signal App](https://blog.tymscar.com/posts/imgurukproxy/)
-- [Confessions of a Software Developer: No More Self-Censorship](https://molly.im/)
+- [Show HN: Boing](https://bazzite.gg/)
+- [Zigbook Is Plagiarizing the Zigtools Playground](https://boing.greg.technology/)
+- [All it takes is for one to work out](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
+- [Meshtastic](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
+- [Landlock-Ing Linux](https://meshtastic.org/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
