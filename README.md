@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-11-30 05:32 UTC**_
+_Last update: **2025-12-01 05:40 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,9 +10,9 @@ _Last update: **2025-11-30 05:32 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-29 05:31:26 UTC_  
+- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
-- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-11-03 05:31:44 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-30 05:32:21 UTC_  
   
 - [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
   Config files for my GitHub profile.
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 9.4°C, wind 12.2 km/h
-- Today: 4.7–9.6°C, precip 0.1 mm
+- Now: 3.2°C, wind 9.2 km/h
+- Today: 2.9–7.2°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Show HN: Boing](https://bazzite.gg/)
-- [Zigbook Is Plagiarizing the Zigtools Playground](https://boing.greg.technology/)
-- [All it takes is for one to work out](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
-- [Meshtastic](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
-- [Landlock-Ing Linux](https://meshtastic.org/)
+- [A Love Letter to FreeBSD](https://tegabrain.com/Slop-Evader)
+- [Advent of Sysadmin 2025](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+- [Advent of Code 2025](https://sadservers.com/advent)
+- [Algorithms for Optimization [pdf]](https://adventofcode.com/2025/about)
+- [Writing a good Claude.md](https://algorithmsbook.com/optimization/files/optimization.pdf)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
