@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-01 05:40 UTC**_
+_Last update: **2025-12-02 05:33 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,9 +10,9 @@ _Last update: **2025-12-01 05:40 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-01 05:40:36 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-11-30 05:32:21 UTC_  
+- [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
 - [mdukhan](https://github.com/mdukhan/mdukhan) — ★0 — _last push 2025-08-25 20:16:51 UTC_  
   Config files for my GitHub profile.
@@ -22,7 +22,7 @@ _Last update: **2025-12-01 05:40 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-- 2025-11-29 00:37 UTC — **Fork** in `mdukhan/text-generation-webui`
+- 2025-11-29 00:37 UTC — **Fork** in `oobabooga/text-generation-webui`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -34,15 +34,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 3.2°C, wind 9.2 km/h
-- Today: 2.9–7.2°C, precip 0.0 mm
+- Now: 4.2°C, wind 14.5 km/h
+- Today: 4.1–6.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [A Love Letter to FreeBSD](https://tegabrain.com/Slop-Evader)
-- [Advent of Sysadmin 2025](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
-- [Advent of Code 2025](https://sadservers.com/advent)
-- [Algorithms for Optimization [pdf]](https://adventofcode.com/2025/about)
-- [Writing a good Claude.md](https://algorithmsbook.com/optimization/files/optimization.pdf)
+- [Beej&#x27;s Guide to Learning Computer Science](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
+- [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://beej.us/guide/bglcs/html/split/)
+- [Tom Stoppard has died](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
+- [India orders smartphone makers to preload state-owned cyber safety app](https://www.bbc.com/news/articles/c74xe49q7vlo)
+- [Reverse math shows why hard problems are hard](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
