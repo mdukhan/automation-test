@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-04 05:33 UTC**_
+_Last update: **2025-12-05 05:33 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-12-04 05:33 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-03 05:32:54 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-04 05:33:14 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 5.0°C, wind 6.3 km/h
-- Today: 2.9–5.7°C, precip 2.0 mm
+- Now: 0.7°C, wind 4.4 km/h
+- Today: 0.7–3.3°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://mitchellh.com/writing/ghostty-non-profit)
-- [New homes in London were delayed by &#x27;energy-hungry&#x27; data centres](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
-- [Average DRAM price in USD over last 18 months](https://www.bbc.com/news/articles/c0mpr1mvwj3o)
-- [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://pcpartpicker.com/trends/price/memory/)
-- [Micron Announces Exit from Crucial Consumer Business](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+- [BMW PHEV: Safety fuse replacement is extremely expensive](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
+- [I have been writing a niche history blog for 15 years](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
+- [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
+- [NeurIPS 2025 Best Paper Awards](https://lyra.horse/blog/2025/12/svg-clickjacking/)
+- [Blogging in 2025: Screaming into the Void](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
