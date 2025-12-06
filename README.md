@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-05 05:33 UTC**_
+_Last update: **2025-12-06 05:31 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-12-05 05:33 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-04 05:33:14 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-05 05:33:09 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 0.7°C, wind 4.4 km/h
-- Today: 0.7–3.3°C, precip 0.0 mm
+- Now: 3.0°C, wind 14.6 km/h
+- Today: 2.9–6.1°C, precip 0.3 mm
 
 ### 📰 Today’s Headlines (HN)
-- [BMW PHEV: Safety fuse replacement is extremely expensive](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
-- [I have been writing a niche history blog for 15 years](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
-- [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history)
-- [NeurIPS 2025 Best Paper Awards](https://lyra.horse/blog/2025/12/svg-clickjacking/)
-- [Blogging in 2025: Screaming into the Void](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
+- [Nook Browser](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
+- [Cloudflare outage on December 5, 2025](https://browsewithnook.com)
+- [Have I been Flocked? – Check if your license plate is being watched](https://blog.cloudflare.com/5-december-2025-outage/)
+- [Leaving Intel](https://haveibeenflocked.com/)
+- [Albert Michelson&#x27;s Harmonic Analyzer (2014) [pdf]](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
