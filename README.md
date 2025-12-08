@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-07 05:30 UTC**_
+_Last update: **2025-12-08 05:35 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-12-07 05:30 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-06 05:31:11 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-07 05:30:23 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 8.4°C, wind 9.8 km/h
-- Today: 6.2–9.3°C, precip 3.9 mm
+- Now: 11.1°C, wind 17.1 km/h
+- Today: 8.6–12.0°C, precip 6.5 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Z2 – Lithographically fabricated IC in a garage fab](https://rfd.shared.oxide.computer/rfd/0576)
-- [Kilauea erupts, destroying webcam [video]](https://sam.zeloof.xyz/second-ic/)
-- [Screenshots from developers: 2002 vs. 2015 (2015)](https://www.youtube.com/watch?v=TK2N99BDw7A)
-- [Trains cancelled over fake bridge collapse image](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
-- [Eurydice: a Rust to C compiler (yes)](https://www.bbc.com/news/articles/cwygqqll9k2o)
+- [I failed to recreate the 1996 Space Jam website with Claude](https://turtletoy.net/)
+- [Bag of words, have mercy on us](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
+- [Mechanical power generation using Earth&#x27;s ambient radiation](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
+- [Damn Small Linux](https://www.science.org/doi/10.1126/sciadv.adw6833)
+- [Dollar-stores overcharge customers while promising low prices](https://www.damnsmalllinux.org/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
