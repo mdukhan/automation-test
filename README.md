@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-08 05:35 UTC**_
+_Last update: **2025-12-09 05:33 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-12-08 05:35 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-07 05:30:23 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-08 05:35:39 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 11.1°C, wind 17.1 km/h
-- Today: 8.6–12.0°C, precip 6.5 mm
+- Now: 11.6°C, wind 10.3 km/h
+- Today: 11.5–12.3°C, precip 3.5 mm
 
 ### 📰 Today’s Headlines (HN)
-- [I failed to recreate the 1996 Space Jam website with Claude](https://turtletoy.net/)
-- [Bag of words, have mercy on us](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
-- [Mechanical power generation using Earth&#x27;s ambient radiation](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-- [Damn Small Linux](https://www.science.org/doi/10.1126/sciadv.adw6833)
-- [Dollar-stores overcharge customers while promising low prices](https://www.damnsmalllinux.org/)
+- [The universal weight subspace hypothesis](https://walkman.land/modern)
+- [The web runs on tolerance](https://arxiv.org/abs/2512.05117)
+- [Show HN: I built a system for active note-taking in regular meetings like 1-1s](https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/)
+- [Icons in Menus Everywhere – Send Help](https://withdocket.com)
+- [Kroger acknowledges that its bet on robotics went too far](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
