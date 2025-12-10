@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-09 05:33 UTC**_
+_Last update: **2025-12-10 05:34 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-12-09 05:33 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-08 05:35:39 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-09 05:33:22 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -22,11 +22,11 @@ _Last update: **2025-12-09 05:33 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-12-09 12:34 UTC — **Member** in `martin-gif/KWKM-Seminar`
 - 2025-12-03 14:03 UTC — **Fork** in `docling-project/docling`
 - 2025-12-03 14:01 UTC — **Fork** in `datalab-to/chandra`
 - 2025-12-03 14:01 UTC — **Watch** in `datalab-to/chandra`
 - 2025-12-03 11:23 UTC — **Fork** in `huggingface/skills`
-- 2025-12-03 11:23 UTC — **Watch** in `huggingface/skills`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 11.6°C, wind 10.3 km/h
-- Today: 11.5–12.3°C, precip 3.5 mm
+- Now: 11.4°C, wind 14.8 km/h
+- Today: 10.2–12.3°C, precip 0.2 mm
 
 ### 📰 Today’s Headlines (HN)
-- [The universal weight subspace hypothesis](https://walkman.land/modern)
-- [The web runs on tolerance](https://arxiv.org/abs/2512.05117)
-- [Show HN: I built a system for active note-taking in regular meetings like 1-1s](https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/)
-- [Icons in Menus Everywhere – Send Help](https://withdocket.com)
-- [Kroger acknowledges that its bet on robotics went too far](https://blog.jim-nielsen.com/2025/icons-in-menus/)
+- [The end of the kernel Rust experiment](https://dosaygo-studio.github.io/hn-front-page-2035/news)
+- [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://lwn.net/Articles/1049831/)
+- [&#x27;Source available&#x27; is not open source (and that&#x27;s okay)](https://www.digitalpublicgoods.net/r/peertube)
+- [Django: what’s new in 6.0](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
+- [Mistral releases Devstral2 and Mistral Vibe CLI](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
