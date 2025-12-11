@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-10 05:34 UTC**_
+_Last update: **2025-12-11 05:36 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-12-10 05:34 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-09 05:33:22 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-10 05:34:30 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -22,11 +22,8 @@ _Last update: **2025-12-10 05:34 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-12-10 13:21 UTC — **Watch** in `ZurichNLP/xstance`
 - 2025-12-09 12:34 UTC — **Member** in `martin-gif/KWKM-Seminar`
-- 2025-12-03 14:03 UTC — **Fork** in `docling-project/docling`
-- 2025-12-03 14:01 UTC — **Fork** in `datalab-to/chandra`
-- 2025-12-03 14:01 UTC — **Watch** in `datalab-to/chandra`
-- 2025-12-03 11:23 UTC — **Fork** in `huggingface/skills`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -38,15 +35,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 11.4°C, wind 14.8 km/h
-- Today: 10.2–12.3°C, precip 0.2 mm
+- Now: 9.1°C, wind 14.6 km/h
+- Today: 6.1–10.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [The end of the kernel Rust experiment](https://dosaygo-studio.github.io/hn-front-page-2035/news)
-- [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://lwn.net/Articles/1049831/)
-- [&#x27;Source available&#x27; is not open source (and that&#x27;s okay)](https://www.digitalpublicgoods.net/r/peertube)
-- [Django: what’s new in 6.0](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
-- [Mistral releases Devstral2 and Mistral Vibe CLI](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
+- [Getting a Gemini API key is an exercise in frustration](https://neal.fun/size-of-life/)
+- [Australia begins enforcing world-first teen social media ban](https://ankursethi.com/blog/gemini-api-key-frustration/)
+- [Patterns.dev](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
+- [Auto-grading decade-old Hacker News discussions with hindsight](https://www.patterns.dev/)
+- [Incomplete list of mistakes in the design of CSS](https://karpathy.bearblog.dev/auto-grade-hn/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
