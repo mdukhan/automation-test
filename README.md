@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-11 05:36 UTC**_
+_Last update: **2025-12-12 05:35 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -10,7 +10,7 @@ _Last update: **2025-12-11 05:36 UTC**_
 - **Dockerfile**: 0.5%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-10 05:34:30 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-11 05:36:08 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -22,6 +22,8 @@ _Last update: **2025-12-11 05:36 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-12-11 14:36 UTC — **Push** in `martin-gif/KWKM-Seminar`
+- 2025-12-11 11:38 UTC — **Watch** in `martin-gif/KWKM-Seminar`
 - 2025-12-10 13:21 UTC — **Watch** in `ZurichNLP/xstance`
 - 2025-12-09 12:34 UTC — **Member** in `martin-gif/KWKM-Seminar`
 
@@ -35,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 9.1°C, wind 14.6 km/h
-- Today: 6.1–10.4°C, precip 0.0 mm
+- Now: 3.8°C, wind 6.2 km/h
+- Today: 3.6–6.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Getting a Gemini API key is an exercise in frustration](https://neal.fun/size-of-life/)
-- [Australia begins enforcing world-first teen social media ban](https://ankursethi.com/blog/gemini-api-key-frustration/)
-- [Patterns.dev](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
-- [Auto-grading decade-old Hacker News discussions with hindsight](https://www.patterns.dev/)
-- [Incomplete list of mistakes in the design of CSS](https://karpathy.bearblog.dev/auto-grade-hn/)
+- [Nokia N900 Necromancy](https://openai.com/index/introducing-gpt-5-2/)
+- [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
+- [Denial of service and source code exposure in React Server Components](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
+- [The highest quality codebase](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
+- [An SVG is all you need](https://gricha.dev/blog/the-highest-quality-codebase)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
