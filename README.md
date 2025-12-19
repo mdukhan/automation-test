@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-18 05:36 UTC**_
+_Last update: **2025-12-19 05:34 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -11,7 +11,7 @@ _Last update: **2025-12-18 05:36 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-17 05:35:59 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-18 05:36:14 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-15 18:11:21 UTC_  
   
@@ -39,15 +39,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 6.1°C, wind 11.7 km/h
-- Today: 5.4–9.4°C, precip 0.0 mm
+- Now: 10.4°C, wind 9.0 km/h
+- Today: 7.3–11.3°C, precip 0.5 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.zeit.de/wirtschaft/2025-12/amazon-urteil-video-kunden-werbung)
-- [Gemini 3 Flash: Frontier intelligence built for speed](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
-- [OBS Studio Gets a New Renderer](https://blog.google/products/gemini/gemini-3-flash/)
-- [Coursera to combine with Udemy](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)
-- [I got hacked: My Hetzner server started mining Monero](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
+- [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://dl.acm.org/openaccess)
+- [History LLMs: Models trained exclusively on pre-1913 texts](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
+- [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://github.com/DGoettlich/history-llms)
+- [Texas is suing all of the big TV makers for spying on what you watch](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
+- [GPT-5.2-Codex](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
