@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-19 05:34 UTC**_
+_Last update: **2025-12-20 05:32 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -11,7 +11,7 @@ _Last update: **2025-12-19 05:34 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-18 05:36:14 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-19 05:35:04 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-15 18:11:21 UTC_  
   
@@ -23,11 +23,11 @@ _Last update: **2025-12-19 05:34 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-12-19 17:13 UTC — **Watch** in `coderabbitai/odsc-west-2025`
 - 2025-12-17 12:36 UTC — **Fork** in `openai/openai-cookbook`
 - 2025-12-16 15:39 UTC — **Push** in `mdukhan/text-generation-webui`
 - 2025-12-15 19:11 UTC — **Push** in `martin-gif/KWKM-Seminar`
 - 2025-12-15 18:10 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-15 17:59 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -39,15 +39,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 10.4°C, wind 9.0 km/h
-- Today: 7.3–11.3°C, precip 0.5 mm
+- Now: 4.6°C, wind 7.9 km/h
+- Today: 3.7–6.7°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://dl.acm.org/openaccess)
-- [History LLMs: Models trained exclusively on pre-1913 texts](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
-- [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://github.com/DGoettlich/history-llms)
-- [Texas is suing all of the big TV makers for spying on what you watch](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
-- [GPT-5.2-Codex](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
+- [Mistral OCR 3](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
+- [Garage – An S3 object store so reliable you can run it outside datacenters](https://mistral.ai/news/mistral-ocr-3)
+- [Carolina Cloud – One third the cost of AWS for data science workloads](https://garagehq.deuxfleurs.fr/)
+- [Fuzix on a Raspberry Pi Pico](https://carolinacloud.io/)
+- [Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://ewpratten.com/blog/fuzix-pi-pico)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
