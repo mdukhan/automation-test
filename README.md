@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-20 05:32 UTC**_
+_Last update: **2025-12-21 05:33 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -11,7 +11,7 @@ _Last update: **2025-12-20 05:32 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-19 05:35:04 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-20 05:32:38 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-15 18:11:21 UTC_  
   
@@ -39,15 +39,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 4.6°C, wind 7.9 km/h
-- Today: 3.7–6.7°C, precip 0.0 mm
+- Now: 4.8°C, wind 12.1 km/h
+- Today: 3.5–7.2°C, precip 0.1 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Mistral OCR 3](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-- [Garage – An S3 object store so reliable you can run it outside datacenters](https://mistral.ai/news/mistral-ocr-3)
-- [Carolina Cloud – One third the cost of AWS for data science workloads](https://garagehq.deuxfleurs.fr/)
-- [Fuzix on a Raspberry Pi Pico](https://carolinacloud.io/)
-- [Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://ewpratten.com/blog/fuzix-pi-pico)
+- [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://haveibeenflocked.com/news/cyble-downtime)
+- [Show HN: Jmail – Google Suite for Epstein files](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+- [Backing Up Spotify](https://www.jmail.world)
+- [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://annas-archive.li/blog/backing-up-spotify.html)
+- [Claude in Chrome](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
