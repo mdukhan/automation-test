@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-21 05:33 UTC**_
+_Last update: **2025-12-22 05:36 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -11,9 +11,9 @@ _Last update: **2025-12-21 05:33 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-20 05:32:38 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-21 18:44:58 UTC_  
   
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-15 18:11:21 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-21 05:33:49 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -39,15 +39,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 4.8°C, wind 12.1 km/h
-- Today: 3.5–7.2°C, precip 0.1 mm
+- Now: 4.8°C, wind 15.2 km/h
+- Today: 4.2–5.5°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://haveibeenflocked.com/news/cyble-downtime)
-- [Show HN: Jmail – Google Suite for Epstein files](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-- [Backing Up Spotify](https://www.jmail.world)
-- [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://annas-archive.li/blog/backing-up-spotify.html)
-- [Claude in Chrome](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
+- [Deliberate Internet Shutdowns](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
+- [I&#x27;m just having fun](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
+- [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://jyn.dev/i-m-just-having-fun/)
+- [Webb observes exoplanet that may have an exotic helium and carbon atmosphere](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
+- [Build Android apps using Rust and Iced](https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
