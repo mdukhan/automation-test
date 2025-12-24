@@ -1,20 +1,20 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-23 05:37 UTC**_
+_Last update: **2025-12-24 05:37 UTC**_
 
 
 ### 🧪 Languages (approx)
-- **Jupyter Notebook**: 84.1%
-- **Java**: 9.1%
-- **Python**: 4.8%
-- **TeX**: 1.9%
+- **Jupyter Notebook**: 84.8%
+- **Java**: 8.7%
+- **Python**: 4.6%
+- **TeX**: 1.8%
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-22 21:34:13 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-23 11:47:47 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-22 05:36:29 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-23 05:37:17 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -24,11 +24,11 @@ _Last update: **2025-12-23 05:37 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-- 2025-12-22 21:34 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-22 21:17 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-22 17:43 UTC — **Delete** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-22 17:41 UTC — **PullRequestReview** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-22 12:36 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-23 11:47 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-23 11:47 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-23 11:46 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-23 11:46 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-23 11:46 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 1.7°C, wind 14.4 km/h
-- Today: 1.6–3.0°C, precip 0.0 mm
+- Now: 0.7°C, wind 9.7 km/h
+- Today: -1.6–1.9°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://github.com/karol-broda/snitch)
-- [The Illustrated Transformer](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
-- [It&#x27;s Always TCP_NODELAY](https://jalammar.github.io/illustrated-transformer/)
-- [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://brooker.co.za/blog/2024/05/09/nagle.html)
-- [GLM-4.7: Advancing the Coding Capability](https://spectrum.ieee.org/ultrasound-cancer-treatment)
+- [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/bellard/mquickjs/blob/main/README.md)
+- [Unifi Travel Router](https://github.com/freelawproject/x-ray)
+- [Texas app store age verification law blocked by federal judge](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
+- [Some Epstein file redactions are being undone with hacks](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
+- [Show HN: Turn raw HTML into production-ready images for free](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
