@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-24 05:37 UTC**_
+_Last update: **2025-12-25 05:37 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,9 +12,9 @@ _Last update: **2025-12-24 05:37 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-23 11:47:47 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-25 03:10:52 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-23 05:37:17 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-24 05:37:10 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 0.7°C, wind 9.7 km/h
-- Today: -1.6–1.9°C, precip 0.0 mm
+- Now: -4.0°C, wind 10.8 km/h
+- Today: -4.7–-2.3°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/bellard/mquickjs/blob/main/README.md)
-- [Unifi Travel Router](https://github.com/freelawproject/x-ray)
-- [Texas app store age verification law blocked by federal judge](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
-- [Some Epstein file redactions are being undone with hacks](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
-- [Show HN: Turn raw HTML into production-ready images for free](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
+- [Microsoft denies rewriting Windows 11 in Rust using AI](https://git.dec05eba.com/phoenix/about/)
+- [Python Applied Mathematics Labs](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+- [Tell HN: Merry Christmas](https://labs.acme.byu.edu/Pages/intro.html)
+- [Who Watches the Waymos? I do [video]](https://news.ycombinator.com/item?id=46380168)
+- [Asterisk AI Voice Agent](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
