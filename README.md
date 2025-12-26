@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-25 05:37 UTC**_
+_Last update: **2025-12-26 05:35 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,9 +12,9 @@ _Last update: **2025-12-25 05:37 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-25 03:10:52 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-25 22:11:54 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-24 05:37:10 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-25 05:37:19 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -4.0°C, wind 10.8 km/h
-- Today: -4.7–-2.3°C, precip 0.0 mm
+- Now: -4.7°C, wind 2.9 km/h
+- Today: -5.1–0.2°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Microsoft denies rewriting Windows 11 in Rust using AI](https://git.dec05eba.com/phoenix/about/)
-- [Python Applied Mathematics Labs](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
-- [Tell HN: Merry Christmas](https://labs.acme.byu.edu/Pages/intro.html)
-- [Who Watches the Waymos? I do [video]](https://news.ycombinator.com/item?id=46380168)
-- [Asterisk AI Voice Agent](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
+- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
+- [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://www.minimaxi.com/news/minimax-m21)
+- [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://gamingcouch.com)
+- [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://github.com/popovicu/ultimate-linux)
+- [Tiled Art](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
