@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-26 05:35 UTC**_
+_Last update: **2025-12-27 05:34 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,9 +12,9 @@ _Last update: **2025-12-26 05:35 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-25 22:11:54 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-26 05:35:35 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-25 05:37:19 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-25 22:11:54 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -4.7°C, wind 2.9 km/h
-- Today: -5.1–0.2°C, precip 0.0 mm
+- Now: 1.8°C, wind 7.3 km/h
+- Today: 0.7–7.0°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
-- [Show HN: Gaming Couch – a local multiplayer party game platform for 8 players](https://www.minimaxi.com/news/minimax-m21)
-- [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://gamingcouch.com)
-- [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://github.com/popovicu/ultimate-linux)
-- [Tiled Art](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
+- [QNX Self-Hosted Developer Desktop](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
+- [Always Bet on Text](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+- [T-Ruby is Ruby with syntax for types](https://graydon2.dreamwidth.org/193447.html)
+- [Experts explore new mushroom which causes fairytale-like hallucinations](https://type-ruby.github.io/)
+- [The Best Things and Stuff of 2025](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
