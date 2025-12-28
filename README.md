@@ -1,20 +1,20 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-27 05:34 UTC**_
+_Last update: **2025-12-28 05:37 UTC**_
 
 
 ### 🧪 Languages (approx)
-- **Jupyter Notebook**: 84.8%
-- **Java**: 8.7%
-- **Python**: 4.6%
-- **TeX**: 1.8%
+- **Jupyter Notebook**: 86.4%
+- **Java**: 7.4%
+- **Python**: 3.9%
+- **TeX**: 2.3%
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-26 05:35:35 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-27 09:54:27 UTC_  
   
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-25 22:11:54 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-27 05:34:17 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -24,11 +24,11 @@ _Last update: **2025-12-27 05:34 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2025-12-27 09:54 UTC — **Delete** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-27 09:54 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-27 09:53 UTC — **PullRequestReview** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-27 09:21 UTC — **Watch** in `jpzk/mindflayer`
 - 2025-12-23 11:47 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-23 11:47 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-23 11:46 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-23 11:46 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-23 11:46 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 1.8°C, wind 7.3 km/h
-- Today: 0.7–7.0°C, precip 0.0 mm
+- Now: -1.6°C, wind 5.0 km/h
+- Today: -2.9–1.1°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [QNX Self-Hosted Developer Desktop](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
-- [Always Bet on Text](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
-- [T-Ruby is Ruby with syntax for types](https://graydon2.dreamwidth.org/193447.html)
-- [Experts explore new mushroom which causes fairytale-like hallucinations](https://type-ruby.github.io/)
-- [The Best Things and Stuff of 2025](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
+- [Replacing JavaScript with Just HTML](https://neatnik.net/calendar/?year=2026)
+- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.htmhell.dev/adventcalendar/2025/27/)
+- [How we lost communication to entertainment](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
+- [Floor796](https://ploum.net/2025-12-15-communication-entertainment.html)
+- [Gpg.fail](https://floor796.com/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
