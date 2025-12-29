@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-28 05:37 UTC**_
+_Last update: **2025-12-29 05:43 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,9 +12,9 @@ _Last update: **2025-12-28 05:37 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-27 09:54:27 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-29 00:16:37 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-27 05:34:17 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-28 05:37:28 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -24,11 +24,11 @@ _Last update: **2025-12-28 05:37 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-- 2025-12-27 09:54 UTC — **Delete** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-27 09:54 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-27 09:53 UTC — **PullRequestReview** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-27 09:21 UTC — **Watch** in `jpzk/mindflayer`
-- 2025-12-23 11:47 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-29 00:16 UTC — **Delete** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-29 00:16 UTC — **Create** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-29 00:16 UTC — **Delete** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-29 00:16 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-29 00:16 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -1.6°C, wind 5.0 km/h
-- Today: -2.9–1.1°C, precip 0.0 mm
+- Now: 5.6°C, wind 15.3 km/h
+- Today: 1.2–7.3°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Replacing JavaScript with Just HTML](https://neatnik.net/calendar/?year=2026)
-- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.htmhell.dev/adventcalendar/2025/27/)
-- [How we lost communication to entertainment](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
-- [Floor796](https://ploum.net/2025-12-15-communication-entertainment.html)
-- [Gpg.fail](https://floor796.com/)
+- [You can make up HTML tags](https://maurycyz.com/misc/raw_photo/)
+- [Unity&#x27;s Mono problem: Why your C# code runs slower than it should](https://maurycyz.com/misc/make-up-tags/)
+- [MongoBleed Explained Simply](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
+- [Why I Think Valve&#x27;s Retiring the Steam Deck LCD](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
+- [Software engineers should be a little bit cynical](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
