@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-29 05:43 UTC**_
+_Last update: **2025-12-30 05:36 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,9 +12,9 @@ _Last update: **2025-12-29 05:43 UTC**_
 - **Dockerfile**: 0.1%
 
 ### 🔧 Recent Repos
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-29 00:16:37 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-29 05:43:21 UTC_  
   
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-28 05:37:28 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-29 00:16:37 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 5.6°C, wind 15.3 km/h
-- Today: 1.2–7.3°C, precip 0.0 mm
+- Now: -1.5°C, wind 10.9 km/h
+- Today: -2.1–1.6°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [You can make up HTML tags](https://maurycyz.com/misc/raw_photo/)
-- [Unity&#x27;s Mono problem: Why your C# code runs slower than it should](https://maurycyz.com/misc/make-up-tags/)
-- [MongoBleed Explained Simply](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
-- [Why I Think Valve&#x27;s Retiring the Steam Deck LCD](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
-- [Software engineers should be a little bit cynical](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
+- [GOG is getting acquired by its original co-founder](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+- [Hacking Washing Machines [video]](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
+- [ManusAI Joins Meta](https://media.ccc.de/v/39c3-hacking-washing-machines)
+- [Tesla&#x27;s 4680 battery supply chain collapses as partner writes down deal by 99%](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
+- [Show HN: Stop Claude Code from forgetting everything](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
