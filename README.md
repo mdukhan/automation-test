@@ -1,20 +1,20 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2025-12-30 05:36 UTC**_
+_Last update: **2025-12-31 05:38 UTC**_
 
 
 ### 🧪 Languages (approx)
-- **Jupyter Notebook**: 86.4%
-- **Java**: 7.4%
-- **Python**: 3.9%
-- **TeX**: 2.3%
-- **Dockerfile**: 0.1%
+- **Jupyter Notebook**: 88.0%
+- **Java**: 6.5%
+- **Python**: 3.4%
+- **TeX**: 2.1%
+- **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-29 05:43:21 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-30 17:50:33 UTC_  
   
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-29 00:16:37 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2025-12-30 05:36:33 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -24,11 +24,11 @@ _Last update: **2025-12-30 05:36 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
-- 2025-12-29 00:16 UTC — **Delete** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-29 00:16 UTC — **Create** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-29 00:16 UTC — **Delete** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-29 00:16 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
-- 2025-12-29 00:16 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-30 17:50 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-30 17:40 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-30 17:40 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-30 17:40 UTC — **PullRequest** in `mdukhan/pm4py-bpmn-simulation`
+- 2025-12-30 17:40 UTC — **Push** in `mdukhan/pm4py-bpmn-simulation`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -1.5°C, wind 10.9 km/h
-- Today: -2.1–1.6°C, precip 0.0 mm
+- Now: 1.8°C, wind 14.1 km/h
+- Today: -1.1–6.4°C, precip 4.5 mm
 
 ### 📰 Today’s Headlines (HN)
-- [GOG is getting acquired by its original co-founder](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
-- [Hacking Washing Machines [video]](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
-- [ManusAI Joins Meta](https://media.ccc.de/v/39c3-hacking-washing-machines)
-- [Tesla&#x27;s 4680 battery supply chain collapses as partner writes down deal by 99%](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
-- [Show HN: Stop Claude Code from forgetting everything](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
+- [Google Opal](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+- [Animated AI](https://opal.google/landing/)
+- [A faster heart for F-Droid](https://animatedai.github.io/)
+- [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
+- [Readings in Database Systems (5th Edition)](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
