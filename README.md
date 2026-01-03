@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-02 05:38 UTC**_
+_Last update: **2026-01-03 05:34 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,9 +12,9 @@ _Last update: **2026-01-02 05:38 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-01 05:40:16 UTC_  
+- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-02 10:47:00 UTC_  
   
-- [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2025-12-30 17:50:33 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-02 05:38:38 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2025-12-01 05:39:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 0.9°C, wind 22.1 km/h
-- Today: -0.2–2.4°C, precip 13.4 mm
+- Now: 0.2°C, wind 11.8 km/h
+- Today: -2.0–0.3°C, precip 6.3 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Why users cannot create Issues directly](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
-- [James Moylan, engineer behind arrow signaling which side to refuel a car, dies](https://github.com/ghostty-org/ghostty/issues/3558)
-- [A website to destroy all websites](https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/)
-- [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://henry.codes/writing/a-website-to-destroy-all-websites/)
-- [Can Bundler be as fast as uv?](https://github.com/maxpert/marmot)
+- [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://indieweb.org/POSSE#)
+- [A Basic Just-In-Time Compiler (2015)](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
+- [2026 will be my year of the Linux desktop](https://nullprogram.com/blog/2015/03/19/)
+- [Show HN: Website that plays the lottery every second](https://xeiaso.net/notes/2026/year-linux-desktop/)
+- [Of Boot Vectors and Double Glitches: Bypassing RP2350&#x27;s Secure Boot](https://lotteryeverysecond.lffl.me/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
