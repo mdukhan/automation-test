@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-08 05:38 UTC**_
+_Last update: **2026-01-09 05:38 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-08 05:38 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-07 05:38:12 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-08 05:38:20 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2026-01-05 05:47:55 UTC_  
   
@@ -24,6 +24,8 @@ _Last update: **2026-01-08 05:38 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2026-01-08 07:02 UTC — **Fork** in `Lightricks/LTX-2`
+- 2026-01-08 07:02 UTC — **Watch** in `Lightricks/LTX-2`
 - 2026-01-04 13:53 UTC — **Fork** in `GreyDGL/PentestGPT`
 - 2026-01-04 13:53 UTC — **Watch** in `GreyDGL/PentestGPT`
 
@@ -37,15 +39,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -2.2°C, wind 11.0 km/h
-- Today: -2.8–0.6°C, precip 6.7 mm
+- Now: -2.4°C, wind 23.3 km/h
+- Today: -4.4–-1.9°C, precip 4.5 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Kernel bugs hide for 2 years on average. Some hide for 20](https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card)
-- [Sugar industry influenced researchers and blamed fat for CVD (2016)](https://pebblebed.com/blog/kernel-bugs)
-- [Open Infrastructure Map](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
-- [Tailscale state file encryption no longer enabled by default](https://openinframap.org)
-- [Eat Real Food](https://tailscale.com/changelog)
+- [Why I Left iNaturalist](https://github.com/anomalyco/opencode/issues/7410)
+- [How to Code Claude Code in 200 Lines of Code](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
+- [Embassy: Modern embedded framework, using Rust and async](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
+- [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/embassy-rs/embassy)
+- [The No Fakes Act Has a &quot;Fingerprinting&quot; Trap That Kills Open Source](https://github.com/samuel-vitorino/sopro)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
