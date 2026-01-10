@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-09 05:38 UTC**_
+_Last update: **2026-01-10 05:34 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-09 05:38 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-08 05:38:20 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-09 05:38:46 UTC_  
   
 - [budget-guardrail-bot](https://github.com/mdukhan/budget-guardrail-bot) — ★0 — _last push 2026-01-05 05:47:55 UTC_  
   
@@ -39,15 +39,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -2.4°C, wind 23.3 km/h
-- Today: -4.4–-1.9°C, precip 4.5 mm
+- Now: -3.4°C, wind 16.2 km/h
+- Today: -4.4–0.1°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Why I Left iNaturalist](https://github.com/anomalyco/opencode/issues/7410)
-- [How to Code Claude Code in 200 Lines of Code](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
-- [Embassy: Modern embedded framework, using Rust and async](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
-- [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/embassy-rs/embassy)
-- [The No Fakes Act Has a &quot;Fingerprinting&quot; Trap That Kills Open Source](https://github.com/samuel-vitorino/sopro)
+- [“Erdos problem #728 was solved more or less autonomously by AI”](https://rushter.com/blog/zsh-shell/)
+- [OLED, Not for Me](https://mathstodon.xyz/@tao/115855840223258103)
+- [Flock Hardcoded the Password for America&#x27;s Surveillance Infrastructure 53 Times](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
+- [Maine&#x27;s black market for baby eels](https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure)
+- [JavaScript Demos in 140 Characters](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
