@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-14 05:37 UTC**_
+_Last update: **2026-01-15 05:38 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-14 05:37 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-13 05:38:24 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-14 05:37:56 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -24,11 +24,11 @@ _Last update: **2026-01-14 05:37 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2026-01-14 22:34 UTC — **Push** in `martin-gif/KWKM-Seminar`
 - 2026-01-12 17:49 UTC — **Create** in `martin-gif/KWKM-Seminar`
 - 2026-01-12 14:05 UTC — **Watch** in `micytao/vllm-playground`
 - 2026-01-11 13:52 UTC — **Watch** in `deepbeepmeep/Wan2GP`
 - 2026-01-11 13:38 UTC — **Fork** in `HKUDS/DeepTutor`
-- 2026-01-11 13:38 UTC — **Watch** in `HKUDS/DeepTutor`
 
 ### 🆘 Help Wanted
 _No labeled issues._
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 4.5°C, wind 10.3 km/h
-- Today: 1.6–5.6°C, precip 8.5 mm
+- Now: 1.6°C, wind 8.7 km/h
+- Today: 0.1–5.1°C, precip 1.8 mm
 
 ### 📰 Today’s Headlines (HN)
-- [ASCII Clouds](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
-- [A 40-line fix eliminated a 400x performance gap](https://caidan.dev/portfolio/ascii_clouds/)
-- [Every GitHub object has two IDs](https://questdb.com/blog/jvm-current-thread-user-time/)
-- [1000 Blank White Cards](https://www.greptile.com/blog/github-ids)
-- [Show HN: OSS AI agent that indexes and searches the Epstein files](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
+- [Claude Cowork exfiltrates files](https://creepylink.com/)
+- [Furiosa: 3.5x efficiency over H100s](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+- [Ask HN: What is the best way to provide continuous context to models?](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+- [Scaling long-running autonomous coding](https://news.ycombinator.com/item?id=46626639)
+- [You need a kitchen slide rule](https://cursor.com/blog/scaling-agents)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
