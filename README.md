@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-16 05:38 UTC**_
+_Last update: **2026-01-17 05:33 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-16 05:38 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-15 05:38:36 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-16 05:38:14 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 4.8°C, wind 13.3 km/h
-- Today: 4.7–9.2°C, precip 0.8 mm
+- Now: 3.4°C, wind 10.0 km/h
+- Today: 2.1–6.9°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
-- [Pocket TTS: A high quality TTS that gives your CPU a voice](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
-- [Inside The Internet Archive&#x27;s Infrastructure](https://kyutai.org/blog/2026-01-13-pocket-tts)
-- [Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
-- [The Myth of the ThinkPad](https://briarproject.org/manual/fa/)
+- [Cloudflare acquires Astro](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
+- [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://astro.build/blog/joining-cloudflare/)
+- [High-Level Is the Goal](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
+- [6-Day and IP Address Certificates Are Generally Available](https://bvisness.me/high-level/)
+- [Cursor&#x27;s latest “browser experiment” implied success without evidence](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
