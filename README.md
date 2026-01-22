@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-21 05:43 UTC**_
+_Last update: **2026-01-22 05:44 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-21 05:43 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-20 05:44:17 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-21 05:43:07 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -3.0°C, wind 9.7 km/h
-- Today: -3.5–0.4°C, precip 0.0 mm
+- Now: -3.2°C, wind 15.4 km/h
+- Today: -4.2–-0.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Disaster planning for regular folks (2015)](https://github.com/anthropics/original_performance_takehome)
-- [A 26,000-year astronomical monument hidden in plain sight (2019)](https://lcamtuf.coredump.cx/prep/index-old.shtml)
-- [Are arrays functions?](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
-- [California is free of drought for the first time in 25 years](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
-- [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
+- [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://huggingface.co/sweepai/sweep-next-edit-1.5B)
+- [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
+- [Binary fuse filters: Fast and smaller than xor filters (2022)](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
+- [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://arxiv.org/abs/2201.01174)
+- [Claude&#x27;s new constitution](https://github.com/ChartGPU/ChartGPU)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
