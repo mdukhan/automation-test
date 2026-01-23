@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-22 05:44 UTC**_
+_Last update: **2026-01-23 05:41 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-22 05:44 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-21 05:43:07 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-22 05:44:45 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -40,15 +40,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -3.2°C, wind 15.4 km/h
-- Today: -4.2–-0.4°C, precip 0.0 mm
+- Now: -4.4°C, wind 13.0 km/h
+- Today: -5.2–-1.4°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://huggingface.co/sweepai/sweep-next-edit-1.5B)
-- [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
-- [Binary fuse filters: Fast and smaller than xor filters (2022)](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
-- [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://arxiv.org/abs/2201.01174)
-- [Claude&#x27;s new constitution](https://github.com/ChartGPU/ChartGPU)
+- [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
+- [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://gptzero.me/news/neurips/)
+- [Talking to LLMs has improved my thinking](https://cannoneyed.com/isometric-nyc/)
+- [Why does SSH send 100 packets per keystroke?](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
+- [I was banned from Claude for scaffolding a Claude.md file?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
