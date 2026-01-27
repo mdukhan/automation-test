@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-26 05:45 UTC**_
+_Last update: **2026-01-27 05:41 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-26 05:45 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-25 05:40:43 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-26 05:45:54 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -37,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 0.6°C, wind 14.5 km/h
-- Today: -0.7–0.9°C, precip 7.4 mm
+- Now: 0.0°C, wind 6.8 km/h
+- Today: -0.3–0.7°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Scientists identify brain waves that define the limits of &#x27;you&#x27;](https://gwern.net/blog/2026/make-me-care)
-- [Iran&#x27;s internet blackout may become permanent, with access for elites only](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
-- [A macOS app that blurs your screen when you slouch](https://restofworld.org/2026/iran-blackout-tiered-internet/)
-- [Case study: Creative math – How AI fakes proofs](https://github.com/tldev/posturr)
-- [Video Games as Art](https://tomaszmachnik.pl/case-study-math-en.html)
+- [The hidden engineering of runways](https://www.bbc.com/news/articles/c1evvx89559o)
+- [ChatGPT Containers can now run bash, pip&#x2F;npm install packages and download files](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
+- [Apple introduces new AirTag with longer range and improved findability](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
+- [There is an AI code review bubble](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+- [People who know the formula for WD-40](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
