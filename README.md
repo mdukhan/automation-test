@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-27 05:41 UTC**_
+_Last update: **2026-01-28 05:42 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-27 05:41 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-26 05:45:54 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-27 05:41:24 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -37,15 +37,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 0.0°C, wind 6.8 km/h
-- Today: -0.3–0.7°C, precip 0.0 mm
+- Now: 0.4°C, wind 13.1 km/h
+- Today: -0.0–1.0°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [The hidden engineering of runways](https://www.bbc.com/news/articles/c1evvx89559o)
-- [ChatGPT Containers can now run bash, pip&#x2F;npm install packages and download files](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
-- [Apple introduces new AirTag with longer range and improved findability](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
-- [There is an AI code review bubble](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
-- [People who know the formula for WD-40](https://www.greptile.com/blog/ai-code-review-bubble)
+- [A few random notes from Claude coding quite a bit last few weeks](https://openai.com/index/introducing-prism)
+- [430k-year-old well-preserved wooden tools are the oldest ever found](https://twitter.com/karpathy/status/2015883857489522876)
+- [Golden Ratio using an equilateral triangle inscribed in a circle](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
+- [Rust’s Standard Library on the GPU](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
+- [AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://www.vectorware.com/blog/rust-std-on-gpu/)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
