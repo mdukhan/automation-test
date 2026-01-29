@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-28 05:42 UTC**_
+_Last update: **2026-01-29 05:56 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-28 05:42 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-27 05:41:24 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-28 05:42:15 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -24,6 +24,7 @@ _Last update: **2026-01-28 05:42 UTC**_
   
 
 ### ⚡ Recent Activity (7d)
+- 2026-01-28 21:04 UTC — **Watch** in `DAMO-NLP-SG/LLM-Sentiment`
 - 2026-01-24 17:50 UTC — **Fork** in `flybirdxx/ComfyUI-Qwen-TTS`
 - 2026-01-24 17:49 UTC — **Watch** in `flybirdxx/ComfyUI-Qwen-TTS`
 
@@ -37,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: 0.4°C, wind 13.1 km/h
-- Today: -0.0–1.0°C, precip 0.0 mm
+- Now: 0.3°C, wind 13.3 km/h
+- Today: -1.4–0.7°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [A few random notes from Claude coding quite a bit last few weeks](https://openai.com/index/introducing-prism)
-- [430k-year-old well-preserved wooden tools are the oldest ever found](https://twitter.com/karpathy/status/2015883857489522876)
-- [Golden Ratio using an equilateral triangle inscribed in a circle](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
-- [Rust’s Standard Library on the GPU](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
-- [AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://www.vectorware.com/blog/rust-std-on-gpu/)
+- [Render Mermaid diagrams as SVGs or ASCII art](https://web.mit.edu/jemorris/humor/500-miles)
+- [Microsoft&#x27;s Azure Linux](https://github.com/lukilabs/beautiful-mermaid)
+- [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://github.com/microsoft/azurelinux)
+- [Mecha Comet – Open Modular Linux Handheld Computer](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
+- [An Illustrated Guide to Hippo Castration](https://mecha.so/comet)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
