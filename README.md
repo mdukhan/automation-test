@@ -1,7 +1,7 @@
 
 
 <!-- DAILY-SECTION:START -->
-_Last update: **2026-01-30 05:59 UTC**_
+_Last update: **2026-01-31 05:51 UTC**_
 
 
 ### 🧪 Languages (approx)
@@ -12,7 +12,7 @@ _Last update: **2026-01-30 05:59 UTC**_
 - **Dockerfile**: 0.0%
 
 ### 🔧 Recent Repos
-- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-29 05:56:50 UTC_  
+- [automation-test](https://github.com/mdukhan/automation-test) — ★0 — _last push 2026-01-30 05:59:42 UTC_  
   
 - [pm4py-bpmn-simulation](https://github.com/mdukhan/pm4py-bpmn-simulation) — ★0 — _last push 2026-01-10 13:17:30 UTC_  
   
@@ -38,15 +38,15 @@ _No labeled issues._
 _No items._
 
 ### 🌤️ Weather (local)
-- Now: -2.1°C, wind 13.9 km/h
-- Today: -2.2–-1.0°C, precip 1.2 mm
+- Now: -1.4°C, wind 17.4 km/h
+- Today: -3.8–-1.1°C, precip 0.0 mm
 
 ### 📰 Today’s Headlines (HN)
-- [Grid: Free, local-first, browser-based 3D printing&#x2F;CNC&#x2F;laser slicer](https://www.moltbook.com/)
-- [The Dank Case for Scrolling Window Managers](https://grid.space/stem/)
-- [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
-- [Project Genie: Experimenting with infinite, interactive worlds](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
-- [Claude Code daily benchmarks for degradation tracking](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
+- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://antirender.com/)
+- [Peerweb: Decentralized website hosting via WebTorrent](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
+- [Stonebraker on CAP theorem and Databases (2010)](https://peerweb.lol/)
+- [Kimi K2.5 Technical Report [pdf]](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
+- [Disrupting the largest residential proxy network](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
 
 ### 🧠 TIL (fill me in)
 > Add one thing you learned today. Replace this line with a short note and commit.
